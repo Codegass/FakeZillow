@@ -7,18 +7,90 @@
 {% endblock %}
 
 {% block main %}
-    <h3 class="page-title">Wanted</h3>
+    <h3 class="page-title">Details</h3>
+<!--
     <form action="" method="post">
         <div class='form-container'>
             <div class="form-group">
                 <input type="text" placeholder="Type the title" name="title"
                         class="form-control">
             </div>
+
             <div class="form-group">
                 <textarea name="content" rows="5" placeholder="Write the details" class="form-control"></textarea>
             </div>
+        </div>
+    </form>
+-->
+
+    <form action="" method="post" class="form-horizontal" role="form">
+        <div class="form-group">
+
             <div class="form-group">
-                <button class="btn btn-primary">Publish</button>
+            <label for="inputnumber" class="col-sm-2 control-label">contact</label>
+            <div class="col-sm-9">
+                <input type="number" class="form-control" id="inputnumber" placeholder="cell phone">
+            </div>
+            </div>
+
+            <div class="form-group">
+            <label for="inputaddress" class="col-sm-2 control-label">address</label>
+            <div class="col-sm-9">
+                <input type="text" class="form-control" id="inputPassword" placeholder="address">
+            </div>
+            </div>
+
+            <div class="form-group">
+                <label for="inputcity" class="col-sm-2 control-label">city</label>
+                <div class="col-sm-9">
+                    <input type="text" class="form-control" id="inputcity" placeholder="city">
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label for="inputstate" class="col-sm-2 control-label">state</label>
+                <div class="col-sm-9">
+                    <input type="text" class="form-control" id="inputstate" placeholder="state">
+                </div>
+            </div>
+
+            <div class="form-group">
+            <label for="inputzipcode" class="col-sm-2 control-label">zipcode</label>
+            <div class="col-sm-9">
+                <input type="number" class="form-control" id="inputzipcode" placeholder="zipcode">
+            </div>
+            </div>
+
+            <div class="form-group">
+                <label for="inputprice" class="col-sm-2 control-label">price</label>
+                <div class="col-sm-9">
+                    <input type="number" class="form-control" id="inputprice" placeholder="100.00 doller/month">
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label for="inputbath" class="col-sm-2 control-label">bath</label>
+                <div class="col-sm-9">
+                    <input type="text" class="form-control" id="inputbath" placeholder="1/2/3">
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label for="inputbedroom" class="col-sm-2 control-label">bedroom</label>
+                <div class="col-sm-9">
+                    <input type="number" class="form-control" id="inputbedroom" placeholder="1/2/3">
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label for="inputbed" class="col-sm-2 control-label">remark</label>
+                <div class="col-sm-9">
+                    <textarea name="content" rows="5" placeholder="Write the remark" class="form-control"></textarea>
+                </div>
+            </div>
+
+            <div class="col-sm-offset-5 col-sm-10">
+                <button type="submit" class="btn btn-primary ">Submit</button>
             </div>
         </div>
     </form>
