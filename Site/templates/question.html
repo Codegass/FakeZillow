@@ -1,0 +1,25 @@
+{% extends 'base.html' %}
+
+{% block title %}Wanted{% endblock %}
+
+{% block head %}
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/question.css') }}">
+{% endblock %}
+
+{% block main %}
+    <h3 class="page-title">Wanted</h3>
+    <form action="" method="post">
+        <div class='form-container'>
+            <div class="form-group">
+                <input type="text" placeholder="Type the title" name="title"
+                        class="form-control">
+            </div>
+            <div class="form-group">
+                <textarea name="content" rows="5" placeholder="Write the details" class="form-control"></textarea>
+            </div>
+            <div class="form-group">
+                <button class="btn btn-primary">Publish</button>
+            </div>
+        </div>
+    </form>
+{% endblock %}
