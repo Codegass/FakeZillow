@@ -1,6 +1,6 @@
 # Rentee
 
-![](https://img.shields.io/wercker/ci/wercker/docs.svg) ![](https://img.shields.io/badge/Developer-Codegass-brightgreen.svg)![](https://img.shields.io/badge/Flask-0.11.1-blue.svg) ![](https://img.shields.io/badge/Update-May-lightgrey.svg) 
+![](https://img.shields.io/wercker/ci/wercker/docs.svg) ![](https://img.shields.io/badge/Developer-Codegass-brightgreen.svg) ![](https://img.shields.io/badge/Flask-0.11.1-blue.svg) ![](https://img.shields.io/badge/Update-May-lightgrey.svg) 
 
 Rentee is a open source rent mate recommendation website. You can fork the repo to build your own website.
 
