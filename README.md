@@ -32,6 +32,6 @@ Now you can run the website on your computer
 $ python manage.py runserver
 ```
 
-Click the 127.0.0.0.0:5000 and you can see it on you computer.
+Click the http://127.0.0.1:5000 and you can see it on you computer.
 
  
