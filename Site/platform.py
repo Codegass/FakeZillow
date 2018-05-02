@@ -16,10 +16,19 @@ db.init_app(app)
 
 @app.route('/')
 def index():
+    with open('static/data/2018-05-01_clean.csv','rt') as fin:
+        cin = csv.reader(fin)
+        data = [row for row in cin]
+    explorelist = list()
+    length = len(data)
+    for row in range(0,6):
+        r = random.randint(1, length-1)
+        explorelist.append(data[r])
+
     context = {
         'questions': Question.query.order_by('-create_time').all()
     }
-    return render_template('index.html', **context)
+    return render_template('index.html', ads=explorelist, **context)
 
 @app.errorhandler(404)
 def page_not_found(e):
@@ -141,8 +150,10 @@ def explore():
         explorelist.append(data[r])
     return render_template('explore.html', explore=explorelist)
 
-
-
+# @app.route('/nearbydetails/<full-address>')
+# def nearbydetails(full-address):
+#
+#     return render_template('nearbydetail', )
 
 # 钩子函数(注销)
 @app.context_processor
