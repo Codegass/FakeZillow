@@ -1,0 +1,32 @@
+{% extends 'base.html' %}
+
+{% block title %}Explore{% endblock %}
+
+{% block head %}
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/explore.css') }}">
+{% endblock %}
+
+{% block main %}
+    <h1 align="center">Lucky Three Rooms!</h1>
+    <hr>
+    {% for row in explore %}
+    <div class="row-fluid">
+        <div class="col-sm-6 col-md-4">
+            <div class="thumbnail">
+                <img src="https://maps.googleapis.com/maps/api/streetview?size=600x300&location={{ row[0] }},{{ row[1] }},{{ row[2] }}&key=AIzaSyD7XXisgcTUrErT_BK_QSnmJ73h42H5uIQ" alt="...">
+                <div class="caption">
+                    <h3>{{ row[0] }},{{ row[1] }},{{ row[2] }}</h3>
+                    <span class="label label-success">{{ row[8] }}</span>
+                    <span class="label label-danger">{{ row[4] }}</span>
+                    <hr>
+                    <p><span class="glyphicon glyphicon-bed" aria-hidden="true"></span> Bedroom: {{ row[6] }}</p>
+                    <p><span class="glyphicon glyphicon-tent" aria-hidden="true"></span> Bathroom: {{ row[7] }}</p>
+                    <p><a href="{{ row[9] }}" class="btn btn-primary" role="button">View on Zillow</a></p>
+                </div>
+                <img src="https://maps.googleapis.com/maps/api/staticmap?format=gif&zoom=17&size=600x300&maptype=roadmap
+&markers=color:blue%7C{{ row[0] }},{{ row[1] }},{{ row[2] }}&key=AIzaSyC25dlln2FG19g80yoK-7jznTVRU4Zmrnc" alt="...">
+            </div>
+        </div>
+    </div>
+    {% endfor %}
+{% endblock %}

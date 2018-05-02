@@ -1,0 +1,97 @@
+{% extends 'base.html' %}
+
+{% block title %}Wanted{% endblock %}
+
+{% block head %}
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/question.css') }}">
+{% endblock %}
+
+{% block main %}
+    <h3 class="page-title">Details</h3>
+    <p align="center">Here to find your future roomates</p>
+<!--
+    <form action="" method="post">
+        <div class='form-container'>
+            <div class="form-group">
+                <input type="text" placeholder="Type the title" name="title"
+                        class="form-control">
+            </div>
+            <div class="form-group">
+                <textarea name="content" rows="5" placeholder="Write the details" class="form-control"></textarea>
+            </div>
+        </div>
+    </form>
+-->
+
+    <form action="" method="post" class="form-horizontal" role="form">
+        <div class="form-container">
+
+            <div class="form-group">
+            <label for="inputnumber" class="col-sm-2 control-label">Contact</label>
+            <div class="col-sm-9">
+                <input type="text" name="contact" class="form-control" id="inputnumber" placeholder="cell phone">
+            </div>
+            </div>
+
+            <div class="form-group">
+            <label for="inputaddress" class="col-sm-2 control-label">Address</label>
+            <div class="col-sm-9">
+                <input type="text" name="address" class="form-control" id="inputPassword" placeholder="address">
+            </div>
+            </div>
+
+            <div class="form-group">
+                <label for="inputcity" class="col-sm-2 control-label">City</label>
+                <div class="col-sm-9">
+                    <input type="text" name="city" class="form-control" id="inputcity" placeholder="city">
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label for="inputstate" class="col-sm-2 control-label">State</label>
+                <div class="col-sm-9">
+                    <input type="text" name="state" class="form-control" id="inputstate" placeholder="state">
+                </div>
+            </div>
+
+            <div class="form-group">
+            <label for="inputzipcode" class="col-sm-2 control-label">Zipcode</label>
+            <div class="col-sm-9">
+                <input type="text" name="zipcode" class="form-control" id="inputzipcode" placeholder="zipcode">
+            </div>
+            </div>
+
+            <div class="form-group">
+                <label for="inputprice" class="col-sm-2 control-label">Price</label>
+                <div class="col-sm-9">
+                    <input type="text" name="price" class="form-control" id="inputprice" placeholder="100.00 doller/month">
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label for="inputbath" class="col-sm-2 control-label">Bath</label>
+                <div class="col-sm-9">
+                    <input type="text" name="bath" class="form-control" id="inputbath" placeholder="1/2/3">
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label for="inputbedroom" class="col-sm-2 control-label">Bedroom</label>
+                <div class="col-sm-9">
+                    <input type="text" name="bed" class="form-control" id="inputbedroom" placeholder="1/2/3">
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label for="inputbed" class="col-sm-2 control-label">Remark</label>
+                <div class="col-sm-9">
+                    <textarea name="content" rows="5" placeholder="Write the remark" class="form-control"></textarea>
+                </div>
+            </div>
+
+            <div class="col-sm-offset-5 col-sm-10">
+                <button type="submit" class="btn btn-primary ">Submit</button>
+            </div>
+        </div>
+    </form>
+{% endblock %}

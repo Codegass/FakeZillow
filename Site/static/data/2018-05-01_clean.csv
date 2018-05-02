@@ -1,0 +1,546 @@
+address,city,state,zip,pric/Month,sqft,bedrooms,bathrooms,rent_type,url
+708 Willow Ave APT 2D,HOBOKEN,NJ,07030,1800/Month,550.0,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/708-Willow-Ave-APT-2D-Hoboken-NJ-07030/52842026_zpid/
+Jefferson St,Hoboken,NJ,07030,2850/Month,NA,2.0,2.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Jefferson-St-Hoboken-NJ-07030/2089766089_zpid/
+3rd St,Hoboken,NJ,07030,2400/Month,NA,2.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/3rd-St-Hoboken-NJ-07030/2089766304_zpid/
+711 Adams St APT 6,Hoboken,NJ,07030,1675/Month,NA,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/711-Adams-St-APT-6-Hoboken-NJ-07030/2089766766_zpid/
+Willow Ave,Hoboken,NJ,07030,2750/Month,NA,2.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Willow-Ave-Hoboken-NJ-07030/2089767094_zpid/
+500 Grand St # 3,Hoboken,NJ,07030,2750/Month,NA,3.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/500-Grand-St-3-Hoboken-NJ-07030/2089767288_zpid/
+Willow Ave,Hoboken,NJ,07030,2100/Month,NA,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Willow-Ave-Hoboken-NJ-07030/2089767463_zpid/
+Court St,Hoboken,NJ,07030,2600/Month,NA,2.0,1.0,Condo For Rent,http://www.zillow.com/homes/for_sale//homedetails/Court-St-Hoboken-NJ-07030/2094900894_zpid/
+1000 Hudson St APT 305,Hoboken,NJ,07030,2650/Month,928.0,1.0,1.0,Condo For Rent,http://www.zillow.com/homes/for_sale//homedetails/1000-Hudson-St-APT-305-Hoboken-NJ-07030/38886901_zpid/
+Park Ave,Hoboken,NJ,07030,1595/Month,NA,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Park-Ave-Hoboken-NJ-07030/2106184567_zpid/
+Grand St,Hoboken,NJ,07030,1895/Month,780.0,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Grand-St-Hoboken-NJ-07030/2090700393_zpid/
+110 7th St # 2,Hoboken,NJ,07030,3450/Month,NA,4.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/110-7th-St-2-Hoboken-NJ-07030/2089776332_zpid/
+708 Jefferson St APT 3,HOBOKEN,NJ,07030,1800/Month,516.0,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/708-Jefferson-St-APT-3-Hoboken-NJ-07030/82169947_zpid/
+511 Bloomfield St APT 3,Hoboken,NJ,07030,2000/Month,NA,2.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/511-Bloomfield-St-APT-3-Hoboken-NJ-07030/2102054667_zpid/
+724 Willow Ave,HOBOKEN,NJ,07030,2000/Month,NA,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/724-Willow-Ave-Hoboken-NJ-07030/38884126_zpid/
+120 Adams St,Hoboken,NJ,07030,1800/Month,NA,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/120-Adams-St-Hoboken-NJ-07030/2089778777_zpid/
+Willow Ave,Hoboken,NJ,07030,2000/Month,NA,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Willow-Ave-Hoboken-NJ-07030/2090916905_zpid/
+Washington St,Hoboken,NJ,07030,2050/Month,NA,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Washington-St-Hoboken-NJ-07030/2089780590_zpid/
+Madison St,HOBOKEN,NJ,07030,2200/Month,650.0,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Madison-St-Hoboken-NJ-07030/2090599567_zpid/
+Willow Ave,Hoboken,NJ,07030,2000/Month,NA,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Willow-Ave-Hoboken-NJ-07030/2089781913_zpid/
+318 Court St # 3,Hoboken,NJ,07030,4750/Month,1450.0,3.0,2.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/318-Court-St-3-Hoboken-NJ-07030/2089784047_zpid/
+501 9th St APT 212,HOBOKEN,NJ,07030,2850/Month,900.0,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/501-9th-St-APT-212-Hoboken-NJ-07030/66465364_zpid/
+Jackson St,Hoboken,NJ,07030,3488/Month,1148.0,2.0,2.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Jackson-St-Hoboken-NJ-07030/2089785830_zpid/
+125 Harrison St APT 2A,Hoboken,NJ,07030,3200/Month,1200.0,2.0,2.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/125-Harrison-St-APT-2A-Hoboken-NJ-07030/2101990194_zpid/
+Grand St,Hoboken,NJ,07030,2300/Month,1049.0,2.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Grand-St-Hoboken-NJ-07030/2089788093_zpid/
+Madison St,Hoboken,NJ,07030,1650/Month,500.0,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Madison-St-Hoboken-NJ-07030/2089788122_zpid/
+203 Washington St APT 201,Hoboken,NJ,07030,2100/Month,NA,0.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/203-Washington-St-APT-201-Hoboken-NJ-07030/2096305823_zpid/
+Park Ave,Hoboken,NJ,07030,1625/Month,NA,0.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Park-Ave-Hoboken-NJ-07030/2089788571_zpid/
+1206 Washington St APT 1R,Hoboken,NJ,07030,2350/Month,814.0,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/1206-Washington-St-APT-1R-Hoboken-NJ-07030/2109492597_zpid/
+229 Clinton St APT 5,Hoboken,NJ,07030,3000/Month,NA,3.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/229-Clinton-St-APT-5-Hoboken-NJ-07030/2089792507_zpid/
+1102 Washington St APT 4,HOBOKEN,NJ,07030,2500/Month,690.0,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/1102-Washington-St-APT-4-Hoboken-NJ-07030/38887211_zpid/
+Jackson St,Hoboken,NJ,07030,4740/Month,1700.0,3.0,2.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Jackson-St-Hoboken-NJ-07030/2089793723_zpid/
+1025 Maxwell Ln,Hoboken,NJ,07030,6850/Month,1430.0,2.0,2.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/1025-Maxwell-Ln-Hoboken-NJ-07030/162065926_zpid/
+Jefferson St,Hoboken,NJ,07030,2775/Month,NA,2.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Jefferson-St-Hoboken-NJ-07030/2089799457_zpid/
+622 Park Ave,Hoboken,NJ,07030,1750/Month,700.0,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/622-Park-Ave-Hoboken-NJ-07030/2103788265_zpid/
+Jefferson St,Hoboken,NJ,07030,4054/Month,1128.0,2.0,2.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Jefferson-St-Hoboken-NJ-07030/2097243178_zpid/
+1025 Maxwell Ln APT 512,HOBOKEN,NJ,07030,7495/Month,1920.0,4.0,2.5,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/1025-Maxwell-Ln-APT-512-Hoboken-NJ-07030/88857584_zpid/
+Willow Ave,Hoboken,NJ,07030,2100/Month,NA,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Willow-Ave-Hoboken-NJ-07030/2089803243_zpid/
+118 Clinton St APT 1G,Hoboken,NJ,07030,3800/Month,1125.0,2.0,2.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/118-Clinton-St-APT-1G-Hoboken-NJ-07030/2113991703_zpid/
+729 Madison St APT 3G,HOBOKEN,NJ,07030,2750/Month,873.0,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/729-Madison-St-APT-3G-Hoboken-NJ-07030/72246595_zpid/
+517 Willow Ave APT 2,Hoboken,NJ,07030,2250/Month,800.0,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/517-Willow-Ave-APT-2-Hoboken-NJ-07030/2110791668_zpid/
+706 Willow Ave # 2R,HOBOKEN,NJ,07030,2300/Month,683.0,1.0,1.0,Condo For Rent,http://www.zillow.com/homes/for_sale//homedetails/706-Willow-Ave-2R-Hoboken-NJ-07030/68014030_zpid/
+136 Garden St # 1,Hoboken,NJ,07030,2000/Month,550.0,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/136-Garden-St-1-Hoboken-NJ-07030/2089814594_zpid/
+82 Jackson St APT A5,HOBOKEN,NJ,07030,2000/Month,450.0,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/82-Jackson-St-APT-A5-Hoboken-NJ-07030/38882311_zpid/
+1002 Clinton St # SECOND,Hoboken,NJ,07030,2600/Month,1200.0,2.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/1002-Clinton-St-SECOND-Hoboken-NJ-07030/2089817988_zpid/
+210 Hudson St # 1,Hoboken,NJ,07030,1800/Month,NA,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/210-Hudson-St-1-Hoboken-NJ-07030/2103037385_zpid/
+80 Park Ave APT 2A,Hoboken,NJ,07030,2675/Month,870.0,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/80-Park-Ave-APT-2A-Hoboken-NJ-07030/38882121_zpid/
+211 10th St # 2,Hoboken,NJ,07030,2150/Month,NA,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/211-10th-St-2-Hoboken-NJ-07030/2098666385_zpid/
+254 1st St APT 4,Hoboken,NJ,07030,3750/Month,1000.0,3.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/254-1st-St-APT-4-Hoboken-NJ-07030/2113357209_zpid/
+Willow Ave,Hoboken,NJ,07030,2200/Month,642.0,2.0,1.0,Condo For Rent,http://www.zillow.com/homes/for_sale//homedetails/Willow-Ave-Hoboken-NJ-07030/2097293178_zpid/
+87 Jefferson St APT 2,Hoboken,NJ,07030,1750/Month,NA,2.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/87-Jefferson-St-APT-2-Hoboken-NJ-07030/2103037837_zpid/
+1200 Grand St # 304,HOBOKEN,NJ,07030,3450/Month,1007.0,2.0,2.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/1200-Grand-St-304-Hoboken-NJ-07030/108623859_zpid/
+4th St,Hoboken,NJ,07030,2100/Month,650.0,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/4th-St-Hoboken-NJ-07030/2095172284_zpid/
+232 Park Ave APT 4S,HOBOKEN,NJ,07030,2450/Month,650.0,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/232-Park-Ave-APT-4S-Hoboken-NJ-07030/119607499_zpid/
+Jackson St,Hoboken,NJ,07030,3490/Month,1150.0,2.0,2.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Jackson-St-Hoboken-NJ-07030/2089831466_zpid/
+212 Madison St APT 4A,HOBOKEN,NJ,07030,2495/Month,503.0,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/212-Madison-St-APT-4A-Hoboken-NJ-07030/71650821_zpid/
+825 Adams St APT 3D,HOBOKEN,NJ,07030,4000/Month,1346.0,3.0,2.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/825-Adams-St-APT-3D-Hoboken-NJ-07030/67078146_zpid/
+1214 Washington St APT 3,HOBOKEN,NJ,07030,2800/Month,710.0,2.0,1.0,Condo For Rent,http://www.zillow.com/homes/for_sale//homedetails/1214-Washington-St-APT-3-Hoboken-NJ-07030/38887260_zpid/
+157 7th St APT 1,HOBOKEN,NJ,07030,2100/Month,450.0,0.0,1.0,Condo For Rent,http://www.zillow.com/homes/for_sale//homedetails/157-7th-St-APT-1-Hoboken-NJ-07030/72241441_zpid/
+609 Park Ave,Hoboken,NJ,07030,1625/Month,500.0,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/609-Park-Ave-Hoboken-NJ-07030/2107681256_zpid/
+924 Washington St APT 1,Hoboken,NJ,07030,3300/Month,1000.0,3.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/924-Washington-St-APT-1-Hoboken-NJ-07030/2100355348_zpid/
+535 Washington St APT 3,Hoboken,NJ,07030,2550/Month,1000.0,2.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/535-Washington-St-APT-3-Hoboken-NJ-07030/2105385653_zpid/
+Adams St,Hoboken,NJ,07030,3000/Month,NA,2.0,1.5,Townhouse For Rent,http://www.zillow.com/homes/for_sale//homedetails/Adams-St-Hoboken-NJ-07030/2099722318_zpid/
+833 Garden St # 1,Hoboken,NJ,07030,2900/Month,1000.0,2.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/833-Garden-St-1-Hoboken-NJ-07030/2126159638_zpid/
+412 Washington St # 2-E,Hoboken,NJ,07030,2800/Month,735.0,2.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/412-Washington-St-2-E-Hoboken-NJ-07030/55346794_zpid/
+515 Monroe St APT 3,HOBOKEN,NJ,07030,3850/Month,1382.0,3.0,2.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/515-Monroe-St-APT-3-Hoboken-NJ-07030/61897406_zpid/
+215 Grand St APT 3F,Hoboken,NJ,07030,3600/Month,1320.0,2.0,2.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/215-Grand-St-APT-3F-Hoboken-NJ-07030/2108309051_zpid/
+3rd St,Hoboken,NJ,07030,2400/Month,NA,2.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/3rd-St-Hoboken-NJ-07030/2099875782_zpid/
+Willow Ave,Hoboken,NJ,07030,2100/Month,NA,2.0,1.5,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Willow-Ave-Hoboken-NJ-07030/2089842333_zpid/
+659 1st St APT 203,Hoboken,NJ,07030,2325/Month,773.0,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/659-1st-St-APT-203-Hoboken-NJ-07030/2099338412_zpid/
+551 Observer Hwy APT 8A,HOBOKEN,NJ,07030,2900/Month,975.0,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/551-Observer-Hwy-APT-8A-Hoboken-NJ-07030/38882241_zpid/
+72 Park Ave,Hoboken,NJ,07030,2500/Month,900.0,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/72-Park-Ave-Hoboken-NJ-07030/38882154_zpid/
+554 Observer Hwy # 3L,HOBOKEN,NJ,07030,2100/Month,567.0,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/554-Observer-Hwy-3L-Hoboken-NJ-07030/38882429_zpid/
+106 Clinton St APT 202,Hoboken,NJ,07030,3100/Month,NA,2.0,2.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/106-Clinton-St-APT-202-Hoboken-NJ-07030/2089848158_zpid/
+1124 Washington St APT 3,Hoboken,NJ,07030,2000/Month,900.0,2.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/1124-Washington-St-APT-3-Hoboken-NJ-07030/2098372494_zpid/
+325 Grand St APT 4L,Hoboken,NJ,07030,2100/Month,NA,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/325-Grand-St-APT-4L-Hoboken-NJ-07030/2094364337_zpid/
+Park Ave,Hoboken,NJ,07030,1650/Month,550.0,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Park-Ave-Hoboken-NJ-07030/2089849121_zpid/
+Clinton St,Hoboken,NJ,07030,2500/Month,1000.0,2.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Clinton-St-Hoboken-NJ-07030/2095597568_zpid/
+1212 Hudson St # B,Hoboken,NJ,07030,2900/Month,1000.0,3.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/1212-Hudson-St-B-Hoboken-NJ-07030/2089855928_zpid/
+1302 Clinton St,Hoboken,NJ,07030,3235/Month,800.0,2.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/1302-Clinton-St-Hoboken-NJ-07030/2113996140_zpid/
+Jackson St,Hoboken,NJ,07030,3495/Month,1130.0,2.0,2.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Jackson-St-Hoboken-NJ-07030/2089856257_zpid/
+913 Garden St APT 101,Hoboken,NJ,07030,1700/Month,NA,0.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/913-Garden-St-APT-101-Hoboken-NJ-07030/2089856973_zpid/
+1036 Willow Ave APT 5,Hoboken,NJ,07030,2500/Month,1100.0,2.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/1036-Willow-Ave-APT-5-Hoboken-NJ-07030/2112168272_zpid/
+1300 Grand St # 312,Hoboken,NJ,07030,2900/Month,901.0,1.0,1.0,Condo For Rent,http://www.zillow.com/homes/for_sale//homedetails/1300-Grand-St-312-Hoboken-NJ-07030/108628288_zpid/
+Jefferson St,Hoboken,NJ,07030,1950/Month,640.0,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Jefferson-St-Hoboken-NJ-07030/2107683541_zpid/
+Monroe St,Hoboken,NJ,07030,1850/Month,520.0,2.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Monroe-St-Hoboken-NJ-07030/2100633581_zpid/
+Willow Ave,Hoboken,NJ,07030,2100/Month,NA,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Willow-Ave-Hoboken-NJ-07030/2089863577_zpid/
+1044 Clinton St,Hoboken,NJ,07030,1795/Month,NA,0.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/1044-Clinton-St-Hoboken-NJ-07030/2089863856_zpid/
+1000 Willow Ave APT 3A,Hoboken,NJ,07030,3250/Month,950.0,3.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/1000-Willow-Ave-APT-3A-Hoboken-NJ-07030/2089865433_zpid/
+816 Bloomfield St # 5,Hoboken,NJ,07030,3350/Month,NA,3.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/816-Bloomfield-St-5-Hoboken-NJ-07030/2089865523_zpid/
+106 11th St APT 3A,Hoboken,NJ,07030,1900/Month,NA,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/106-11th-St-APT-3A-Hoboken-NJ-07030/2089865725_zpid/
+Park Ave,Hoboken,NJ,07030,1625/Month,550.0,0.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Park-Ave-Hoboken-NJ-07030/2089866797_zpid/
+707 Garden St APT 1,Hoboken,NJ,07030,2550/Month,NA,2.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/707-Garden-St-APT-1-Hoboken-NJ-07030/2121991240_zpid/
+1024 Clinton St APT 201,Hoboken,NJ,07030,1795/Month,550.0,0.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/1024-Clinton-St-APT-201-Hoboken-NJ-07030/2095784612_zpid/
+Monroe St,Hoboken,NJ,07030,1825/Month,600.0,2.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Monroe-St-Hoboken-NJ-07030/2102367842_zpid/
+Jefferson St,Hoboken,NJ,07030,2700/Month,3319.0,2.0,2.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Jefferson-St-Hoboken-NJ-07030/2092378197_zpid/
+Jackson St,Hoboken,NJ,07030,2600/Month,NA,2.0,2.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Jackson-St-Hoboken-NJ-07030/2092562347_zpid/
+Hudson St,Hoboken,NJ,07030,2300/Month,2258.0,2.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Hudson-St-Hoboken-NJ-07030/2092155609_zpid/
+Jefferson St,Hoboken,NJ,07030,2800/Month,NA,2.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Jefferson-St-Hoboken-NJ-07030/2092154421_zpid/
+Jefferson St,Hoboken,NJ,07030,2800/Month,NA,2.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Jefferson-St-Hoboken-NJ-07030/2091675119_zpid/
+Jackson St,Hoboken,NJ,07030,2700/Month,NA,2.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Jackson-St-Hoboken-NJ-07030/2100667207_zpid/
+518 Adams St APT 1,Hoboken,NJ,07030,2700/Month,900.0,2.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/518-Adams-St-APT-1-Hoboken-NJ-07030/2109697663_zpid/
+202 Bloomfield Street # Top Floor,Hoboken,NJ,07030,3000/Month,1000.0,3.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/202-Bloomfield-Street-Top-Floor-Hoboken-NJ-07030/2089875948_zpid/
+10th St,Hoboken,NJ,07030,2900/Month,875.0,2.0,2.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/10th-St-Hoboken-NJ-07030/2089877008_zpid/
+826 Washington St # UB,Hoboken,NJ,07030,2100/Month,660.0,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/826-Washington-St-UB-Hoboken-NJ-07030/2089877374_zpid/
+Bloomfield St,HOBOKEN,NJ,07030,1800/Month,NA,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Bloomfield-St-Hoboken-NJ-07030/2089878806_zpid/
+Jefferson St,Hoboken,NJ,07030,1950/Month,NA,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Jefferson-St-Hoboken-NJ-07030/2089879131_zpid/
+611 Bloomfield St APT 1F,Hoboken,NJ,07030,1700/Month,450.0,0.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/611-Bloomfield-St-APT-1F-Hoboken-NJ-07030/2089879132_zpid/
+557 2nd St APT 6,HOBOKEN,NJ,07030,3800/Month,1000.0,3.0,2.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/557-2nd-St-APT-6-Hoboken-NJ-07030/82170950_zpid/
+5th St,Hoboken,NJ,07030,3450/Month,NA,3.0,2.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/5th-St-Hoboken-NJ-07030/2089882326_zpid/
+Jackson St,Hoboken,NJ,07030,2600/Month,NA,2.0,1.0,Condo For Rent,http://www.zillow.com/homes/for_sale//homedetails/Jackson-St-Hoboken-NJ-07030/2108736533_zpid/
+41 1st St APT 2C,HOBOKEN,NJ,07030,2900/Month,759.0,2.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/41-1st-St-APT-2C-Hoboken-NJ-07030/38886941_zpid/
+415 Jefferson St APT 1,Hoboken,NJ,07030,2000/Month,950.0,2.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/415-Jefferson-St-APT-1-Hoboken-NJ-07030/2126423195_zpid/
+1125 Maxwell Ln APT 731,HOBOKEN,NJ,07030,3850/Month,895.0,1.0,1.5,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/1125-Maxwell-Ln-APT-731-Hoboken-NJ-07030/108628175_zpid/
+238 Garden St # 3,Hoboken,NJ,07030,1900/Month,800.0,2.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/238-Garden-St-3-Hoboken-NJ-07030/2091465404_zpid/
+509 Willow Ave APT 6,HOBOKEN,NJ,07030,2400/Month,625.0,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/509-Willow-Ave-APT-6-Hoboken-NJ-07030/38884402_zpid/
+213 7th St # 3,Hoboken,NJ,07030,2300/Month,850.0,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/213-7th-St-3-Hoboken-NJ-07030/2111209362_zpid/
+1007 Willow Ave APT 2L,Hoboken,NJ,07030,2800/Month,800.0,2.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/1007-Willow-Ave-APT-2L-Hoboken-NJ-07030/2089901087_zpid/
+132 Bloomfield St APT 3,HOBOKEN,NJ,07030,3500/Month,1200.0,2.0,2.0,Condo For Rent,http://www.zillow.com/homes/for_sale//homedetails/132-Bloomfield-St-APT-3-Hoboken-NJ-07030/38885581_zpid/
+303 1st St APT 2,Hoboken,NJ,07030,2500/Month,900.0,2.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/303-1st-St-APT-2-Hoboken-NJ-07030/2094233159_zpid/
+Jefferson St,Hoboken,NJ,07030,2500/Month,NA,2.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Jefferson-St-Hoboken-NJ-07030/2089902938_zpid/
+412 Adams St # 1A,Hoboken,NJ,07030,2300/Month,NA,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/412-Adams-St-1A-Hoboken-NJ-07030/2093918598_zpid/
+Willow Ave,Hoboken,NJ,07030,2400/Month,NA,3.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Willow-Ave-Hoboken-NJ-07030/2102046392_zpid/
+201 Madison St # 4S,Hoboken,NJ,07030,1900/Month,700.0,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/201-Madison-St-4S-Hoboken-NJ-07030/2102321330_zpid/
+6th St,Hoboken,NJ,07030,2500/Month,750.0,2.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/6th-St-Hoboken-NJ-07030/2108411875_zpid/
+56 Madison St # 3,Hoboken,NJ,07030,2699/Month,900.0,2.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/56-Madison-St-3-Hoboken-NJ-07030/2118801006_zpid/
+214 Willow Ave APT 2B,Hoboken,NJ,07030,2600/Month,678.0,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/214-Willow-Ave-APT-2B-Hoboken-NJ-07030/162054250_zpid/
+Washington St,HOBOKEN,NJ,07030,2495/Month,710.0,2.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Washington-St-Hoboken-NJ-07030/2089916041_zpid/
+519 4th St,Hoboken,NJ,07030,2150/Month,725.0,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/519-4th-St-Hoboken-NJ-07030/2094664827_zpid/
+Willow Ave,Hoboken,NJ,07030,2000/Month,NA,2.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Willow-Ave-Hoboken-NJ-07030/2089918044_zpid/
+Monroe St,Hoboken,NJ,07030,1850/Month,625.0,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Monroe-St-Hoboken-NJ-07030/2107677433_zpid/
+1300 Hudson St APT A4,HOBOKEN,NJ,07030,2500/Month,735.0,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/1300-Hudson-St-APT-A4-Hoboken-NJ-07030/38887172_zpid/
+Monroe St,Hoboken,NJ,07030,1850/Month,650.0,2.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Monroe-St-Hoboken-NJ-07030/2089937390_zpid/
+218 Willow Ave APT 1R,HOBOKEN,NJ,07030,2700/Month,617.0,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/218-Willow-Ave-APT-1R-Hoboken-NJ-07030/38883249_zpid/
+Willow Ave,Hoboken,NJ,07030,2950/Month,1000.0,3.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Willow-Ave-Hoboken-NJ-07030/2098736364_zpid/
+Bloomfield St,Hoboken,NJ,07030,3100/Month,1000.0,3.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Bloomfield-St-Hoboken-NJ-07030/2098110073_zpid/
+1309 Bloomfield St # FOURTH,Hoboken,NJ,07030,3100/Month,1000.0,3.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/1309-Bloomfield-St-FOURTH-Hoboken-NJ-07030/2089943824_zpid/
+1225 Willow Ave # THIRD,Hoboken,NJ,07030,2950/Month,1100.0,3.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/1225-Willow-Ave-THIRD-Hoboken-NJ-07030/2094289923_zpid/
+530 Monroe St APT 9,Hoboken,NJ,07030,1850/Month,650.0,2.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/530-Monroe-St-APT-9-Hoboken-NJ-07030/2093040352_zpid/
+530 Monroe St APT 9,Hoboken,NJ,07030,1850/Month,650.0,2.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/530-Monroe-St-APT-9-Hoboken-NJ-07030/2093040352_zpid/
+1209 Willow Ave # SECOND,Hoboken,NJ,07030,2950/Month,1200.0,3.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/1209-Willow-Ave-SECOND-Hoboken-NJ-07030/2094018833_zpid/
+420 Bloomfield St APT 2,Hoboken,NJ,07030,3150/Month,800.0,2.0,2.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/420-Bloomfield-St-APT-2-Hoboken-NJ-07030/2089947870_zpid/
+811 Washington St # 3S,Hoboken,NJ,07030,2950/Month,NA,2.0,1.0,Condo For Rent,http://www.zillow.com/homes/for_sale//homedetails/811-Washington-St-3S-Hoboken-NJ-07030/2104569517_zpid/
+1st St,HOBOKEN,NJ,07030,3500/Month,1100.0,2.0,2.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/1st-St-Hoboken-NJ-07030/2089954310_zpid/
+Madison St,Hoboken,NJ,07030,1600/Month,NA,2.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Madison-St-Hoboken-NJ-07030/2103799987_zpid/
+1114 Park Ave APT 3L,HOBOKEN,NJ,07030,2700/Month,812.0,2.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/1114-Park-Ave-APT-3L-Hoboken-NJ-07030/38884772_zpid/
+821 Washington St APT 5,HOBOKEN,NJ,07030,4000/Month,NA,3.0,2.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/821-Washington-St-APT-5-Hoboken-NJ-07030/38886703_zpid/
+400 9th St APT W3B,Hoboken,NJ,07030,3200/Month,1100.0,2.0,2.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/400-9th-St-APT-W3B-Hoboken-NJ-07030/2089960616_zpid/
+92 Jefferson St APT 4,Hoboken,NJ,07030,2150/Month,975.0,2.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/92-Jefferson-St-APT-4-Hoboken-NJ-07030/2109601138_zpid/
+13th St,Hoboken,NJ,07030,3595/Month,980.0,2.0,2.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/13th-St-Hoboken-NJ-07030/2089968306_zpid/
+Willow Ave,Hoboken,NJ,07030,3415/Month,805.0,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Willow-Ave-Hoboken-NJ-07030/2089968551_zpid/
+Jefferson St,Hoboken,NJ,07030,2100/Month,700.0,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Jefferson-St-Hoboken-NJ-07030/2089968864_zpid/
+13th St,Hoboken,NJ,07030,3485/Month,900.0,2.0,2.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/13th-St-Hoboken-NJ-07030/2089969785_zpid/
+Willow Ave,Hoboken,NJ,07030,3430/Month,805.0,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Willow-Ave-Hoboken-NJ-07030/2089970260_zpid/
+110 Garden St # 2A,Hoboken,NJ,07030,3800/Month,1200.0,3.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/110-Garden-St-2A-Hoboken-NJ-07030/2089975320_zpid/
+618 Washington St APT 7A,Hoboken,NJ,07030,2850/Month,1000.0,2.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/618-Washington-St-APT-7A-Hoboken-NJ-07030/2092334762_zpid/
+1117 Jefferson St # 5,Hoboken,NJ,07030,2500/Month,1150.0,2.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/1117-Jefferson-St-5-Hoboken-NJ-07030/2089976985_zpid/
+842 Park Ave APT 5,Hoboken,NJ,07030,2100/Month,NA,2.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/842-Park-Ave-APT-5-Hoboken-NJ-07030/2098930355_zpid/
+89 Park Ave,Hoboken,NJ,07030,1850/Month,NA,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/89-Park-Ave-Hoboken-NJ-07030/2093876338_zpid/
+729 Madison St APT 1E,HOBOKEN,NJ,07030,2800/Month,810.0,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/729-Madison-St-APT-1E-Hoboken-NJ-07030/72246051_zpid/
+517 4th St # 2,Hoboken,NJ,07030,2150/Month,750.0,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/517-4th-St-2-Hoboken-NJ-07030/2089985556_zpid/
+Madison St,Hoboken,NJ,07030,2850/Month,1132.0,2.0,2.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Madison-St-Hoboken-NJ-07030/2096549545_zpid/
+Grand St,Hoboken,NJ,07030,2300/Month,705.0,1.0,1.0,Condo For Rent,http://www.zillow.com/homes/for_sale//homedetails/Grand-St-Hoboken-NJ-07030/2095761845_zpid/
+Washington St,Hoboken,NJ,07030,4100/Month,1500.0,3.0,2.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Washington-St-Hoboken-NJ-07030/2089988706_zpid/
+Willow Ave,Hoboken,NJ,07030,2500/Month,900.0,2.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Willow-Ave-Hoboken-NJ-07030/2092376941_zpid/
+Park Ave,Hoboken,NJ,07030,1625/Month,NA,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Park-Ave-Hoboken-NJ-07030/2089989327_zpid/
+1205 Washington St,Hoboken,NJ,07030,1800/Month,700.0,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/1205-Washington-St-Hoboken-NJ-07030/2089989678_zpid/
+700 Willow Ave # 4,Hoboken,NJ,07030,1700/Month,600.0,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/700-Willow-Ave-4-Hoboken-NJ-07030/2101054950_zpid/
+420 Bloomfield St,Hoboken,NJ,07030,3150/Month,800.0,2.0,2.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/420-Bloomfield-St-Hoboken-NJ-07030/38885732_zpid/
+451 7th St # 4,Hoboken,NJ,07030,2150/Month,NA,0.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/451-7th-St-4-Hoboken-NJ-07030/2089991476_zpid/
+Willow Ave,Hoboken,NJ,07030,3350/Month,723.0,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Willow-Ave-Hoboken-NJ-07030/2089991565_zpid/
+2nd Street # Top Floor,Hoboken,NJ,07030,2800/Month,1000.0,2.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/2nd-Street-Top-Floor-Hoboken-NJ-07030/2089992208_zpid/
+301 1st St APT 1,Hoboken,NJ,07030,2500/Month,800.0,2.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/301-1st-St-APT-1-Hoboken-NJ-07030/2101256797_zpid/
+13th St,Hoboken,NJ,07030,3335/Month,835.0,2.0,2.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/13th-St-Hoboken-NJ-07030/2089994262_zpid/
+416 Monroe St APT 4R,Hoboken,NJ,07030,2395/Month,705.0,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/416-Monroe-St-APT-4R-Hoboken-NJ-07030/2138499477_zpid/
+Jefferson St,Hoboken,NJ,07030,2775/Month,1000.0,2.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Jefferson-St-Hoboken-NJ-07030/2098737828_zpid/
+Madison St,Hoboken,NJ,07030,1600/Month,1150.0,2.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Madison-St-Hoboken-NJ-07030/2101746651_zpid/
+153 8th St # 3,Hoboken,NJ,07030,3650/Month,1200.0,3.0,2.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/153-8th-St-3-Hoboken-NJ-07030/2117800672_zpid/
+250 Park Ave # 8,Hoboken,NJ,07030,2200/Month,525.0,2.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/250-Park-Ave-8-Hoboken-NJ-07030/2090001069_zpid/
+233 Clinton St APT 2,Hoboken,NJ,07030,1800/Month,NA,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/233-Clinton-St-APT-2-Hoboken-NJ-07030/2102735165_zpid/
+4th St,Hoboken,NJ,07030,2150/Month,NA,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/4th-St-Hoboken-NJ-07030/2103280813_zpid/
+1115 Willow Ave APT 302,Hoboken,NJ,07030,2400/Month,789.0,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/1115-Willow-Ave-APT-302-Hoboken-NJ-07030/162060679_zpid/
+1500 Hudson St # 3Q,Hoboken,NJ,07030,5500/Month,1530.0,3.0,3.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/1500-Hudson-St-3Q-Hoboken-NJ-07030/68303877_zpid/
+600 Monroe St APT 10,Hoboken,NJ,07030,1600/Month,625.0,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/600-Monroe-St-APT-10-Hoboken-NJ-07030/2090013167_zpid/
+1024 Adams St,Hoboken,NJ,07030,2500/Month,NA,2.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/1024-Adams-St-Hoboken-NJ-07030/2090013449_zpid/
+1024 Adams St,Hoboken,NJ,07030,2500/Month,NA,2.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/1024-Adams-St-Hoboken-NJ-07030/2090013449_zpid/
+Jefferson St,Hoboken,NJ,07030,2500/Month,NA,2.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Jefferson-St-Hoboken-NJ-07030/2091591166_zpid/
+Clinton St,Hoboken,NJ,07030,2750/Month,1100.0,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Clinton-St-Hoboken-NJ-07030/2091947491_zpid/
+Monroe St,Hoboken,NJ,07030,1900/Month,700.0,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Monroe-St-Hoboken-NJ-07030/2090016379_zpid/
+627 Willow Ave APT 3,HOBOKEN,NJ,07030,2900/Month,800.0,2.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/627-Willow-Ave-APT-3-Hoboken-NJ-07030/88866443_zpid/
+403 Washington St # 2,Hoboken,NJ,07030,2200/Month,700.0,2.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/403-Washington-St-2-Hoboken-NJ-07030/2090017875_zpid/
+Bloomfield St,HOBOKEN,NJ,07030,2100/Month,750.0,2.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Bloomfield-St-Hoboken-NJ-07030/2090018280_zpid/
+700 1st St APT 11U,HOBOKEN,NJ,07030,2700/Month,800.0,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/700-1st-St-APT-11U-Hoboken-NJ-07030/66466163_zpid/
+650 2nd St APT 2E,Hoboken,NJ,07030,3900/Month,1382.0,3.0,2.0,Condo For Rent,http://www.zillow.com/homes/for_sale//homedetails/650-2nd-St-APT-2E-Hoboken-NJ-07030/2119312654_zpid/
+800 Jackson St,Hoboken,NJ,07030,2700/Month,800.0,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/800-Jackson-St-Hoboken-NJ-07030/2099731234_zpid/
+204 Willow Ave # 2L,Hoboken,NJ,07030,2495/Month,537.0,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/204-Willow-Ave-2L-Hoboken-NJ-07030/72242048_zpid/
+721 Bloomfield St # 1,Hoboken,NJ,07030,2400/Month,NA,2.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/721-Bloomfield-St-1-Hoboken-NJ-07030/2090025407_zpid/
+323 Grand St # GARDEN,Hoboken,NJ,07030,2600/Month,NA,3.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/323-Grand-St-GARDEN-Hoboken-NJ-07030/2090029414_zpid/
+Madison St,Hoboken,NJ,07030,1950/Month,NA,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Madison-St-Hoboken-NJ-07030/2100140760_zpid/
+626 Washington St # 1,Hoboken,NJ,07030,1950/Month,NA,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/626-Washington-St-1-Hoboken-NJ-07030/2119521103_zpid/
+93 Washington St APT 1,Hoboken,NJ,07030,2550/Month,950.0,2.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/93-Washington-St-APT-1-Hoboken-NJ-07030/2110937434_zpid/
+515 Bloomfield St # 2,Hoboken,NJ,07030,5200/Month,1550.0,4.0,2.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/515-Bloomfield-St-2-Hoboken-NJ-07030/2090046483_zpid/
+Jackson St,Hoboken,NJ,07030,3420/Month,1100.0,2.0,2.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Jackson-St-Hoboken-NJ-07030/2090047853_zpid/
+77 River St APT 5,Hoboken,NJ,07030,2700/Month,870.0,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/77-River-St-APT-5-Hoboken-NJ-07030/2098998552_zpid/
+1126 Washington St,Hoboken,NJ,07030,2000/Month,1000.0,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/1126-Washington-St-Hoboken-NJ-07030/2091390722_zpid/
+415 Newark St APT 5F,HOBOKEN,NJ,07030,3150/Month,NA,2.0,2.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/415-Newark-St-APT-5F-Hoboken-NJ-07030/59899608_zpid/
+Madison St,Hoboken,NJ,07030,2800/Month,1000.0,2.0,2.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Madison-St-Hoboken-NJ-07030/2103813070_zpid/
+1315 Washington St APT 5B,Hoboken,NJ,07030,2350/Month,539.0,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/1315-Washington-St-APT-5B-Hoboken-NJ-07030/2128261921_zpid/
+165 10th St # GRND,Hoboken,NJ,07030,1700/Month,NA,0.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/165-10th-St-GRND-Hoboken-NJ-07030/2090071666_zpid/
+Park Ave,Hoboken,NJ,07030,2100/Month,NA,2.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Park-Ave-Hoboken-NJ-07030/2090084193_zpid/
+300 Newark St APT 3C,HOBOKEN,NJ,07030,2675/Month,855.0,1.0,1.0,Condo For Rent,http://www.zillow.com/homes/for_sale//homedetails/300-Newark-St-APT-3C-Hoboken-NJ-07030/38882595_zpid/
+1042 Bloomfield St APT 2,Hoboken,NJ,07030,3800/Month,1200.0,3.0,2.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/1042-Bloomfield-St-APT-2-Hoboken-NJ-07030/2126908826_zpid/
+1026 Bloomfield St APT 2,Hoboken,NJ,07030,2300/Month,NA,2.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/1026-Bloomfield-St-APT-2-Hoboken-NJ-07030/2107513723_zpid/
+458 6th St APT 3L,Hoboken,NJ,07030,1400/Month,650.0,1.0,1.0,Condo For Rent,http://www.zillow.com/homes/for_sale//homedetails/458-6th-St-APT-3L-Hoboken-NJ-07030/2090090702_zpid/
+1211 Willow Ave # FOURTH,Hoboken,NJ,07030,2200/Month,700.0,2.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/1211-Willow-Ave-FOURTH-Hoboken-NJ-07030/2090094084_zpid/
+625 Bloomfield St # 3,Hoboken,NJ,07030,3000/Month,900.0,2.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/625-Bloomfield-St-3-Hoboken-NJ-07030/2111380170_zpid/
+54 1st St,Hoboken,NJ,07030,2275/Month,800.0,2.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/54-1st-St-Hoboken-NJ-07030/2090094620_zpid/
+108 14th St # 1RW,Hoboken,NJ,07030,2095/Month,500.0,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/108-14th-St-1RW-Hoboken-NJ-07030/2112896863_zpid/
+Hudson St,HOBOKEN,NJ,07030,1975/Month,1100.0,2.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Hudson-St-Hoboken-NJ-07030/2090100702_zpid/
+308 Madison St APT 3A,Hoboken,NJ,07030,3150/Month,NA,3.0,2.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/308-Madison-St-APT-3A-Hoboken-NJ-07030/2096833678_zpid/
+82 Bloomfield St APT 2A,HOBOKEN,NJ,07030,3200/Month,872.0,2.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/82-Bloomfield-St-APT-2A-Hoboken-NJ-07030/38885481_zpid/
+629 Garden St # 3,Hoboken,NJ,07030,2525/Month,700.0,2.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/629-Garden-St-3-Hoboken-NJ-07030/2132221559_zpid/
+333 Monroe St APT 2B,HOBOKEN,NJ,07030,2200/Month,650.0,2.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/333-Monroe-St-APT-2B-Hoboken-NJ-07030/38883324_zpid/
+232 Madison St APT 3L,HOBOKEN,NJ,07030,2400/Month,685.0,1.0,1.0,Condo For Rent,http://www.zillow.com/homes/for_sale//homedetails/232-Madison-St-APT-3L-Hoboken-NJ-07030/68303294_zpid/
+124 Garden St APT 1,Hoboken,NJ,07030,2150/Month,NA,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/124-Garden-St-APT-1-Hoboken-NJ-07030/2132564642_zpid/
+310 2nd St APT 4,HOBOKEN,NJ,07030,3400/Month,1106.0,2.0,2.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/310-2nd-St-APT-4-Hoboken-NJ-07030/66466199_zpid/
+5th St,Hoboken,NJ,07030,1870/Month,400.0,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/5th-St-Hoboken-NJ-07030/2107079179_zpid/
+Willow Ave,Hoboken,NJ,07030,2200/Month,550.0,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Willow-Ave-Hoboken-NJ-07030/2092305185_zpid/
+77 Jefferson St APT 5,HOBOKEN,NJ,07030,3000/Month,1310.0,2.0,2.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/77-Jefferson-St-APT-5-Hoboken-NJ-07030/38882466_zpid/
+Willow Ave,HOBOKEN,NJ,07030,2300/Month,NA,2.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Willow-Ave-Hoboken-NJ-07030/2090118258_zpid/
+1 14th St PH 1,Hoboken,NJ,07030,3200/Month,1060.0,2.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/1-14th-St-PH-1-Hoboken-NJ-07030/2124054191_zpid/
+834 Hudson St APT 3D,Hoboken,NJ,07030,2300/Month,NA,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/834-Hudson-St-APT-3D-Hoboken-NJ-07030/2090119268_zpid/
+1451 Garden St,Hoboken,NJ,07030,4850/Month,NA,2.0,2.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/1451-Garden-St-Hoboken-NJ-07030/2090122412_zpid/
+Clinton St,Hoboken,NJ,07030,1725/Month,600.0,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Clinton-St-Hoboken-NJ-07030/2097413970_zpid/
+Hudson St,Hoboken,NJ,07030,2750/Month,NA,2.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Hudson-St-Hoboken-NJ-07030/2091459568_zpid/
+204 8th St APT 3,Hoboken,NJ,07030,2050/Month,600.0,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/204-8th-St-APT-3-Hoboken-NJ-07030/2102915099_zpid/
+8th St,Hoboken,NJ,07030,2000/Month,600.0,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/8th-St-Hoboken-NJ-07030/2102684645_zpid/
+1125 Maxwell Ln APT 344,HOBOKEN,NJ,07030,5600/Month,1245.0,2.0,2.0,Condo For Rent,http://www.zillow.com/homes/for_sale//homedetails/1125-Maxwell-Ln-APT-344-Hoboken-NJ-07030/92209704_zpid/
+Jefferson St,Hoboken,NJ,07030,1950/Month,NA,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Jefferson-St-Hoboken-NJ-07030/2090140529_zpid/
+404 Jefferson St # 3,Hoboken,NJ,07030,2775/Month,NA,2.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/404-Jefferson-St-3-Hoboken-NJ-07030/2090141171_zpid/
+711 Willow Ave APT 5C,Hoboken,NJ,07030,1800/Month,500.0,1.0,1.0,Condo For Rent,http://www.zillow.com/homes/for_sale//homedetails/711-Willow-Ave-APT-5C-Hoboken-NJ-07030/2090141417_zpid/
+1st St,Hoboken,NJ,07030,4050/Month,1500.0,3.0,2.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/1st-St-Hoboken-NJ-07030/2107187544_zpid/
+551 Observer Hwy APT 9A,HOBOKEN,NJ,07030,3000/Month,974.0,2.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/551-Observer-Hwy-APT-9A-Hoboken-NJ-07030/38882249_zpid/
+206 9th St # 3,Hoboken,NJ,07030,1800/Month,NA,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/206-9th-St-3-Hoboken-NJ-07030/2090146957_zpid/
+610 Bloomfield St # 1,Hoboken,NJ,07030,3000/Month,1100.0,2.0,1.5,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/610-Bloomfield-St-1-Hoboken-NJ-07030/2100929654_zpid/
+80 Madison St APT 2,HOBOKEN,NJ,07030,4000/Month,1000.0,3.0,2.0,Condo For Rent,http://www.zillow.com/homes/for_sale//homedetails/80-Madison-St-APT-2-Hoboken-NJ-07030/88062261_zpid/
+401 Monroe St APT 2L,HOBOKEN,NJ,07030,2400/Month,600.0,2.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/401-Monroe-St-APT-2L-Hoboken-NJ-07030/38883397_zpid/
+216 Hudson St APT 4R,Hoboken,NJ,07030,2750/Month,NA,2.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/216-Hudson-St-APT-4R-Hoboken-NJ-07030/2094476854_zpid/
+80 Park Ave APT 2B,Hoboken,NJ,07030,2550/Month,746.0,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/80-Park-Ave-APT-2B-Hoboken-NJ-07030/38882122_zpid/
+1116 Hudson St,Hoboken,NJ,07030,2350/Month,1100.0,2.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/1116-Hudson-St-Hoboken-NJ-07030/2105931926_zpid/
+Willow Ave,Hoboken,NJ,07030,2100/Month,NA,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Willow-Ave-Hoboken-NJ-07030/2090178233_zpid/
+164 6th St # DUPLEX,Hoboken,NJ,07030,2300/Month,NA,2.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/164-6th-St-DUPLEX-Hoboken-NJ-07030/2090180868_zpid/
+736 Washington St APT 2,Hoboken,NJ,07030,2150/Month,800.0,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/736-Washington-St-APT-2-Hoboken-NJ-07030/2090185412_zpid/
+510 4th St # 314,Hoboken,NJ,07030,2800/Month,950.0,2.0,2.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/510-4th-St-314-Hoboken-NJ-07030/2090188415_zpid/
+110 Garden St # 2,Hoboken,NJ,07030,3800/Month,1200.0,3.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/110-Garden-St-2-Hoboken-NJ-07030/2105514487_zpid/
+106 11th St APT 3,Hoboken,NJ,07030,1900/Month,NA,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/106-11th-St-APT-3-Hoboken-NJ-07030/2110632158_zpid/
+1107 Washington St APT 8,HOBOKEN,NJ,07030,2500/Month,800.0,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/1107-Washington-St-APT-8-Hoboken-NJ-07030/38887067_zpid/
+405 4th St,Hoboken,NJ,07030,2200/Month,635.0,1.0,1.0,Condo For Rent,http://www.zillow.com/homes/for_sale//homedetails/405-4th-St-Hoboken-NJ-07030/2141151177_zpid/
+709 Willow Ave,Hoboken,NJ,07030,2200/Month,631.0,2.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/709-Willow-Ave-Hoboken-NJ-07030/2106842432_zpid/
+163 14th St APT 7,Hoboken,NJ,07030,2500/Month,661.0,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/163-14th-St-APT-7-Hoboken-NJ-07030/2098924344_zpid/
+132 Adams St APT 3,HOBOKEN,NJ,07030,2050/Month,585.0,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/132-Adams-St-APT-3-Hoboken-NJ-07030/68300664_zpid/
+305 Bloomfield St APT 2,Hoboken,NJ,07030,2100/Month,800.0,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/305-Bloomfield-St-APT-2-Hoboken-NJ-07030/2095429887_zpid/
+130 Adams St APT 4,HOBOKEN,NJ,07030,1900/Month,600.0,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/130-Adams-St-APT-4-Hoboken-NJ-07030/68013501_zpid/
+1st St,Hoboken,NJ,07030,4050/Month,1000.0,3.0,2.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/1st-St-Hoboken-NJ-07030/2099847258_zpid/
+222 Grand St APT 1C,HOBOKEN,NJ,07030,2850/Month,685.0,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/222-Grand-St-APT-1C-Hoboken-NJ-07030/38883164_zpid/
+Adams St,Hoboken,NJ,07030,2300/Month,775.0,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Adams-St-Hoboken-NJ-07030/2094209455_zpid/
+Hudson St,HOBOKEN,NJ,07030,2750/Month,900.0,2.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Hudson-St-Hoboken-NJ-07030/2090231188_zpid/
+1025 Maxwell Ln APT 902,HOBOKEN,NJ,07030,6850/Month,1430.0,2.0,2.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/1025-Maxwell-Ln-APT-902-Hoboken-NJ-07030/88861907_zpid/
+740 Washington St APT 7,HOBOKEN,NJ,07030,1800/Month,570.0,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/740-Washington-St-APT-7-Hoboken-NJ-07030/38886260_zpid/
+Hudson St,Hoboken,NJ,07030,2350/Month,1000.0,2.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Hudson-St-Hoboken-NJ-07030/2090235423_zpid/
+Hudson St,Hoboken,NJ,07030,2350/Month,1000.0,2.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Hudson-St-Hoboken-NJ-07030/2090235423_zpid/
+62 12th St # FOURTH,Hoboken,NJ,07030,3600/Month,1300.0,4.0,1.5,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/62-12th-St-FOURTH-Hoboken-NJ-07030/2096491055_zpid/
+805 Clinton St APT 1,Hoboken,NJ,07030,3200/Month,NA,3.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/805-Clinton-St-APT-1-Hoboken-NJ-07030/2090238370_zpid/
+1310 Bloomfield St # FIFTH,Hoboken,NJ,07030,3150/Month,1000.0,3.0,1.5,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/1310-Bloomfield-St-FIFTH-Hoboken-NJ-07030/2090240439_zpid/
+Clinton St,Hoboken,NJ,07030,3218/Month,810.0,2.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Clinton-St-Hoboken-NJ-07030/2093542381_zpid/
+252 1st St # 2,Hoboken,NJ,07030,2850/Month,757.0,2.0,1.0,Condo For Rent,http://www.zillow.com/homes/for_sale//homedetails/252-1st-St-2-Hoboken-NJ-07030/2090244458_zpid/
+840 Park Ave # 2,Hoboken,NJ,07030,2100/Month,900.0,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/840-Park-Ave-2-Hoboken-NJ-07030/2096917502_zpid/
+1st St,Hoboken,NJ,07030,2250/Month,800.0,2.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/1st-St-Hoboken-NJ-07030/2090255299_zpid/
+85 Madison St APT 5D,Hoboken,NJ,07030,2800/Month,800.0,2.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/85-Madison-St-APT-5D-Hoboken-NJ-07030/2090261555_zpid/
+831 Willow Ave,HOBOKEN,NJ,07030,2900/Month,NA,2.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/831-Willow-Ave-Hoboken-NJ-07030/38884605_zpid/
+531 Washington St APT 2,Hoboken,NJ,07030,2850/Month,1200.0,2.0,1.0,Condo For Rent,http://www.zillow.com/homes/for_sale//homedetails/531-Washington-St-APT-2-Hoboken-NJ-07030/2101115717_zpid/
+1st St,Hoboken,NJ,07030,4200/Month,1200.0,3.0,3.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/1st-St-Hoboken-NJ-07030/2108055550_zpid/
+Madison St,Hoboken,NJ,07030,2800/Month,650.0,2.0,2.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Madison-St-Hoboken-NJ-07030/2090266868_zpid/
+Willow Ave,Hoboken,NJ,07030,1900/Month,600.0,2.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Willow-Ave-Hoboken-NJ-07030/2090267502_zpid/
+Monroe St,Hoboken,NJ,07030,1750/Month,550.0,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Monroe-St-Hoboken-NJ-07030/2090267755_zpid/
+Madison St,Hoboken,NJ,07030,2375/Month,609.0,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Madison-St-Hoboken-NJ-07030/2090268420_zpid/
+337 Washington St APT 2,Hoboken,NJ,07030,1399/Month,600.0,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/337-Washington-St-APT-2-Hoboken-NJ-07030/2090271232_zpid/
+808 Garden St APT 3,Hoboken,NJ,07030,2250/Month,800.0,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/808-Garden-St-APT-3-Hoboken-NJ-07030/2096998614_zpid/
+1034 Clinton St APT 102,HOBOKEN,NJ,07030,3850/Month,1304.0,2.0,2.0,Condo For Rent,http://www.zillow.com/homes/for_sale//homedetails/1034-Clinton-St-APT-102-Hoboken-NJ-07030/72241800_zpid/
+1038 Garden St APT 1,Hoboken,NJ,07030,3590/Month,1200.0,3.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/1038-Garden-St-APT-1-Hoboken-NJ-07030/2099838623_zpid/
+316 9th St # 8,Hoboken,NJ,07030,2450/Month,900.0,2.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/316-9th-St-8-Hoboken-NJ-07030/2090286307_zpid/
+332 Hudson St APT 3,Hoboken,NJ,07030,2600/Month,800.0,2.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/332-Hudson-St-APT-3-Hoboken-NJ-07030/2111155343_zpid/
+252-256 1st St # 2,Hoboken,NJ,07030,2750/Month,757.0,2.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/252-256-1st-St-2-Hoboken-NJ-07030/162053713_zpid/
+510 4th St # 517,Hoboken,NJ,07030,2800/Month,1100.0,2.0,2.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/510-4th-St-517-Hoboken-NJ-07030/2091883162_zpid/
+508 4th St # 517,Hoboken,NJ,07030,2800/Month,1100.0,2.0,2.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/508-4th-St-517-Hoboken-NJ-07030/2090289964_zpid/
+Willow Ave,Hoboken,NJ,07030,4300/Month,1156.0,2.0,2.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Willow-Ave-Hoboken-NJ-07030/2090299411_zpid/
+Willow Ave,Hoboken,NJ,07030,2845/Month,615.0,0.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Willow-Ave-Hoboken-NJ-07030/2090299419_zpid/
+Willow Ave,Hoboken,NJ,07030,3250/Month,775.0,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Willow-Ave-Hoboken-NJ-07030/2090299426_zpid/
+118 Clinton St APT 1,HOBOKEN,NJ,07030,2850/Month,875.0,2.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/118-Clinton-St-APT-1-Hoboken-NJ-07030/88864710_zpid/
+129 Willow Ave APT 3R,HOBOKEN,NJ,07030,2550/Month,673.0,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/129-Willow-Ave-APT-3R-Hoboken-NJ-07030/68303262_zpid/
+108 1st St APT 1,Hoboken,NJ,07030,3000/Month,1200.0,2.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/108-1st-St-APT-1-Hoboken-NJ-07030/2090305131_zpid/
+129 Willow Ave,Hoboken,NJ,07030,2550/Month,673.0,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/129-Willow-Ave-Hoboken-NJ-07030/2099534473_zpid/
+Bloomfield St,Hoboken,NJ,07030,2400/Month,NA,2.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Bloomfield-St-Hoboken-NJ-07030/2099238392_zpid/
+Willow Ave,Hoboken,NJ,07030,2100/Month,NA,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Willow-Ave-Hoboken-NJ-07030/2102151403_zpid/
+815 Washington St,Hoboken,NJ,07030,1775/Month,1100.0,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/815-Washington-St-Hoboken-NJ-07030/2108416341_zpid/
+718 Washington St APT 2,Hoboken,NJ,07030,2000/Month,NA,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/718-Washington-St-APT-2-Hoboken-NJ-07030/2102530240_zpid/
+1st St,Hoboken,NJ,07030,1725/Month,500.0,0.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/1st-St-Hoboken-NJ-07030/2090324763_zpid/
+10th St,Hoboken,NJ,07030,2400/Month,700.0,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/10th-St-Hoboken-NJ-07030/2099376661_zpid/
+Washington St,HOBOKEN,NJ,07030,2150/Month,NA,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Washington-St-Hoboken-NJ-07030/2090324790_zpid/
+734 Adams St APT 4D,HOBOKEN,NJ,07030,2400/Month,580.0,2.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/734-Adams-St-APT-4D-Hoboken-NJ-07030/82170813_zpid/
+119 Madison St APT 4E,HOBOKEN,NJ,07030,3300/Month,1300.0,2.0,2.0,Condo For Rent,http://www.zillow.com/homes/for_sale//homedetails/119-Madison-St-APT-4E-Hoboken-NJ-07030/59899693_zpid/
+510 Adams Street # Top Floor,Hoboken,NJ,07030,1575/Month,600.0,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/510-Adams-Street-Top-Floor-Hoboken-NJ-07030/2090330089_zpid/
+322 Washington St APT 4,Hoboken,NJ,07030,2300/Month,800.0,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/322-Washington-St-APT-4-Hoboken-NJ-07030/2113462975_zpid/
+500 Jefferson St # 1,Hoboken,NJ,07030,3200/Month,900.0,2.0,2.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/500-Jefferson-St-1-Hoboken-NJ-07030/2096578362_zpid/
+Willow Ave,Hoboken,NJ,07030,2000/Month,700.0,2.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Willow-Ave-Hoboken-NJ-07030/2090337789_zpid/
+4th St,Hoboken,NJ,07030,2100/Month,600.0,1.0,1.0,Condo For Rent,http://www.zillow.com/homes/for_sale//homedetails/4th-St-Hoboken-NJ-07030/2090337805_zpid/
+130 Adams St APT 2,HOBOKEN,NJ,07030,1825/Month,462.0,0.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/130-Adams-St-APT-2-Hoboken-NJ-07030/68303256_zpid/
+204 Willow Ave APT 3L,HOBOKEN,NJ,07030,2200/Month,550.0,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/204-Willow-Ave-APT-3L-Hoboken-NJ-07030/72244589_zpid/
+829 Washington St,Hoboken,NJ,07030,2625/Month,NA,2.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/829-Washington-St-Hoboken-NJ-07030/67089908_zpid/
+114 Adams St # 3,HOBOKEN,NJ,07030,3400/Month,1107.0,2.0,2.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/114-Adams-St-3-Hoboken-NJ-07030/119606799_zpid/
+653 1st St APT 4A,Hoboken,NJ,07030,2050/Month,700.0,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/653-1st-St-APT-4A-Hoboken-NJ-07030/2101183841_zpid/
+809 Park Ave # 1L,Hoboken,NJ,07030,2200/Month,650.0,2.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/809-Park-Ave-1L-Hoboken-NJ-07030/38885229_zpid/
+Washington St,Hoboken,NJ,07030,1775/Month,600.0,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Washington-St-Hoboken-NJ-07030/2107253389_zpid/
+321 Willow Ave APT 5,Hoboken,NJ,07030,1750/Month,NA,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/321-Willow-Ave-APT-5-Hoboken-NJ-07030/2103897229_zpid/
+5th St,Hoboken,NJ,07030,3100/Month,1050.0,3.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/5th-St-Hoboken-NJ-07030/2102801326_zpid/
+Washington St,Hoboken,NJ,07030,1775/Month,600.0,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Washington-St-Hoboken-NJ-07030/2094883478_zpid/
+Willow Ave,Hoboken,NJ,07030,1695/Month,650.0,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Willow-Ave-Hoboken-NJ-07030/2090439190_zpid/
+1st St,Hoboken,NJ,07030,4000/Month,1800.0,3.0,3.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/1st-St-Hoboken-NJ-07030/2090439861_zpid/
+330 Madison St APT 5,HOBOKEN,NJ,07030,2300/Month,520.0,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/330-Madison-St-APT-5-Hoboken-NJ-07030/38883344_zpid/
+159 9th St # 3,Hoboken,NJ,07030,1905/Month,NA,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/159-9th-St-3-Hoboken-NJ-07030/2102521499_zpid/
+420 Madison St,Hoboken,NJ,07030,2500/Month,700.0,2.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/420-Madison-St-Hoboken-NJ-07030/2101461242_zpid/
+905 Park Ave APT 3,Hoboken,NJ,07030,2200/Month,850.0,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/905-Park-Ave-APT-3-Hoboken-NJ-07030/2121292883_zpid/
+612 Washington St APT 1,Hoboken,NJ,07030,2150/Month,NA,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/612-Washington-St-APT-1-Hoboken-NJ-07030/2090470993_zpid/
+7th St,Hoboken,NJ,07030,3800/Month,1500.0,3.0,2.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/7th-St-Hoboken-NJ-07030/2098865702_zpid/
+1025 Maxwell Ln APT 307,HOBOKEN,NJ,07030,4500/Month,1133.0,2.0,2.0,Condo For Rent,http://www.zillow.com/homes/for_sale//homedetails/1025-Maxwell-Ln-APT-307-Hoboken-NJ-07030/88857558_zpid/
+Harrison St,Hoboken,NJ,07030,4925/Month,1725.0,4.0,2.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Harrison-St-Hoboken-NJ-07030/2099690351_zpid/
+1100 Clinton St APT 206,HOBOKEN,NJ,07030,4600/Month,1550.0,3.0,2.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/1100-Clinton-St-APT-206-Hoboken-NJ-07030/66465426_zpid/
+1001 Garden St APT 2,Hoboken,NJ,07030,2700/Month,900.0,2.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/1001-Garden-St-APT-2-Hoboken-NJ-07030/2103800458_zpid/
+318 Washington St APT 3R,Hoboken,NJ,07030,3200/Month,750.0,2.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/318-Washington-St-APT-3R-Hoboken-NJ-07030/2090501285_zpid/
+903 Madison St # 5C,Hoboken,NJ,07030,3300/Month,1085.0,2.0,2.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/903-Madison-St-5C-Hoboken-NJ-07030/2090507841_zpid/
+Hudson St,Hoboken,NJ,07030,2350/Month,1100.0,2.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Hudson-St-Hoboken-NJ-07030/2103278244_zpid/
+Garden St,Hoboken,NJ,07030,1650/Month,800.0,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Garden-St-Hoboken-NJ-07030/2101616783_zpid/
+1st St,Hoboken,NJ,07030,3350/Month,1494.0,2.0,2.0,Condo For Rent,http://www.zillow.com/homes/for_sale//homedetails/1st-St-Hoboken-NJ-07030/2097613280_zpid/
+800 Jackson St APT 307,HOBOKEN,NJ,07030,3450/Month,1110.0,2.0,2.0,Condo For Rent,http://www.zillow.com/homes/for_sale//homedetails/800-Jackson-St-APT-307-Hoboken-NJ-07030/108636281_zpid/
+202 Grand St # 2F,Hoboken,NJ,07030,2300/Month,NA,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/202-Grand-St-2F-Hoboken-NJ-07030/2090543247_zpid/
+207 Grand St # 2,Hoboken,NJ,07030,2300/Month,1350.0,1.0,1.0,Townhouse For Rent,http://www.zillow.com/homes/for_sale//homedetails/207-Grand-St-2-Hoboken-NJ-07030/2099451619_zpid/
+223 Clinton St APT 2,Hoboken,NJ,07030,1800/Month,600.0,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/223-Clinton-St-APT-2-Hoboken-NJ-07030/2127948602_zpid/
+1300 Grand St # 201,Hoboken,NJ,07030,3300/Month,1050.0,2.0,2.0,Condo For Rent,http://www.zillow.com/homes/for_sale//homedetails/1300-Grand-St-201-Hoboken-NJ-07030/162058519_zpid/
+Grand St,Hoboken,NJ,07030,2300/Month,790.0,1.0,1.0,Condo For Rent,http://www.zillow.com/homes/for_sale//homedetails/Grand-St-Hoboken-NJ-07030/2098961226_zpid/
+Grand St,Hoboken,NJ,07030,2700/Month,979.0,2.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Grand-St-Hoboken-NJ-07030/2097318012_zpid/
+380 Newark St APT 5D,Hoboken,NJ,07030,3450/Month,1153.0,2.0,2.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/380-Newark-St-APT-5D-Hoboken-NJ-07030/2141056466_zpid/
+742 Park Ave,Hoboken,NJ,07030,2650/Month,NA,2.0,2.0,Townhouse For Rent,http://www.zillow.com/homes/for_sale//homedetails/742-Park-Ave-Hoboken-NJ-07030/2103612419_zpid/
+915 Garden St,Hoboken,NJ,07030,1725/Month,800.0,0.0,1.0,Townhouse For Rent,http://www.zillow.com/homes/for_sale//homedetails/915-Garden-St-Hoboken-NJ-07030/2111383812_zpid/
+831 Clinton St APT 17,HOBOKEN,NJ,07030,2100/Month,670.0,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/831-Clinton-St-APT-17-Hoboken-NJ-07030/38884167_zpid/
+333 Monroe St APT 1A,HOBOKEN,NJ,07030,2300/Month,565.0,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/333-Monroe-St-APT-1A-Hoboken-NJ-07030/38883322_zpid/
+405 Monroe St APT 3L,Hoboken,NJ,07030,1700/Month,750.0,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/405-Monroe-St-APT-3L-Hoboken-NJ-07030/2090573143_zpid/
+Monroe St,Hoboken,NJ,07030,1750/Month,NA,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Monroe-St-Hoboken-NJ-07030/2095062602_zpid/
+918 Willow Ave # 1,Hoboken,NJ,07030,2600/Month,950.0,2.0,1.0,Condo For Rent,http://www.zillow.com/homes/for_sale//homedetails/918-Willow-Ave-1-Hoboken-NJ-07030/2101776593_zpid/
+Grand St,Hoboken,NJ,07030,2700/Month,1100.0,2.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Grand-St-Hoboken-NJ-07030/2099964113_zpid/
+Madison St,Hoboken,NJ,07030,2125/Month,NA,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Madison-St-Hoboken-NJ-07030/2095729621_zpid/
+257 1st St APT 5,Hoboken,NJ,07030,1800/Month,600.0,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/257-1st-St-APT-5-Hoboken-NJ-07030/2110699156_zpid/
+917 Hudson St # 3,Hoboken,NJ,07030,2900/Month,1100.0,2.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/917-Hudson-St-3-Hoboken-NJ-07030/2090919085_zpid/
+419 5th St APT B,Hoboken,NJ,07030,2900/Month,1000.0,3.0,2.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/419-5th-St-APT-B-Hoboken-NJ-07030/2099486986_zpid/
+55 1st St APT 1,Hoboken,NJ,07030,2250/Month,800.0,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/55-1st-St-APT-1-Hoboken-NJ-07030/2101768376_zpid/
+1st St,Hoboken,NJ,07030,2250/Month,800.0,2.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/1st-St-Hoboken-NJ-07030/2103151874_zpid/
+308 Monroe St APT 4R,HOBOKEN,NJ,07030,1750/Month,551.0,1.0,1.0,Condo For Rent,http://www.zillow.com/homes/for_sale//homedetails/308-Monroe-St-APT-4R-Hoboken-NJ-07030/68303322_zpid/
+16th St,Hoboken,NJ,07030,3499/Month,1100.0,2.0,2.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/16th-St-Hoboken-NJ-07030/2090601403_zpid/
+63 Madison St APT 7,HOBOKEN,NJ,07030,2000/Month,600.0,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/63-Madison-St-APT-7-Hoboken-NJ-07030/66669665_zpid/
+222 Grand St APT 2K,HOBOKEN,NJ,07030,2500/Month,680.0,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/222-Grand-St-APT-2K-Hoboken-NJ-07030/38883182_zpid/
+405 4th St APT 2A,HOBOKEN,NJ,07030,2100/Month,600.0,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/405-4th-St-APT-2A-Hoboken-NJ-07030/88866063_zpid/
+1000 Willow Ave APT 3,Hoboken,NJ,07030,3250/Month,950.0,3.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/1000-Willow-Ave-APT-3-Hoboken-NJ-07030/2099694329_zpid/
+79 Madison St APT 4B,HOBOKEN,NJ,07030,2200/Month,650.0,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/79-Madison-St-APT-4B-Hoboken-NJ-07030/38882446_zpid/
+638 Park Ave # 1,Hoboken,NJ,07030,2295/Month,650.0,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/638-Park-Ave-1-Hoboken-NJ-07030/2090645573_zpid/
+308 Monroe St # 2,Hoboken,NJ,07030,2050/Month,NA,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/308-Monroe-St-2-Hoboken-NJ-07030/2090645571_zpid/
+356 1st St APT 1,HOBOKEN,NJ,07030,1725/Month,500.0,0.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/356-1st-St-APT-1-Hoboken-NJ-07030/38882889_zpid/
+810 Washington St APT 4,HOBOKEN,NJ,07030,2400/Month,918.0,2.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/810-Washington-St-APT-4-Hoboken-NJ-07030/61897917_zpid/
+1122 Hudson St,Hoboken,NJ,07030,2450/Month,910.0,2.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/1122-Hudson-St-Hoboken-NJ-07030/2106467012_zpid/
+1122 Hudson St,Hoboken,NJ,07030,2450/Month,910.0,2.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/1122-Hudson-St-Hoboken-NJ-07030/2106467012_zpid/
+611 Park Ave APT 5,Hoboken,NJ,07030,1650/Month,NA,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/611-Park-Ave-APT-5-Hoboken-NJ-07030/2113076859_zpid/
+94 Adams St # 2,HOBOKEN,NJ,07030,4500/Month,1383.0,2.0,2.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/94-Adams-St-2-Hoboken-NJ-07030/38882516_zpid/
+407 4th St,Hoboken,NJ,07030,1875/Month,700.0,1.0,1.0,House For Rent,http://www.zillow.com/homes/for_sale//homedetails/407-4th-St-Hoboken-NJ-07030/2106235607_zpid/
+9th St,Hoboken,NJ,07030,2550/Month,NA,1.0,1.0,Condo For Rent,http://www.zillow.com/homes/for_sale//homedetails/9th-St-Hoboken-NJ-07030/2090677925_zpid/
+800 Jackson St APT 405,HOBOKEN,NJ,07030,2700/Month,800.0,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/800-Jackson-St-APT-405-Hoboken-NJ-07030/108636635_zpid/
+228 Bloomfield St APT 13,HOBOKEN,NJ,07030,2350/Month,618.0,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/228-Bloomfield-St-APT-13-Hoboken-NJ-07030/38885670_zpid/
+211 Jefferson St APT 4,HOBOKEN,NJ,07030,3000/Month,887.0,2.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/211-Jefferson-St-APT-4-Hoboken-NJ-07030/68303301_zpid/
+76 Jackson St # 3F,Hoboken,NJ,07030,2495/Month,900.0,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/76-Jackson-St-3F-Hoboken-NJ-07030/2110797666_zpid/
+923 Clinton St # E,Hoboken,NJ,07030,2450/Month,800.0,2.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/923-Clinton-St-E-Hoboken-NJ-07030/2098127188_zpid/
+333 Adams St APT 6,HOBOKEN,NJ,07030,2100/Month,600.0,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/333-Adams-St-APT-6-Hoboken-NJ-07030/88856179_zpid/
+206 2nd St # 2,Hoboken,NJ,07030,2400/Month,800.0,2.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/206-2nd-St-2-Hoboken-NJ-07030/2099183510_zpid/
+Willow Ave,Hoboken,NJ,07030,2100/Month,650.0,2.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Willow-Ave-Hoboken-NJ-07030/2107050649_zpid/
+Willow Ave,Hoboken,NJ,07030,2900/Month,NA,2.0,2.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Willow-Ave-Hoboken-NJ-07030/2105091095_zpid/
+901 Madison St APT 5C,HOBOKEN,NJ,07030,3350/Month,1085.0,2.0,2.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/901-Madison-St-APT-5C-Hoboken-NJ-07030/68300785_zpid/
+Grand St,Hoboken,NJ,07030,2700/Month,1000.0,2.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Grand-St-Hoboken-NJ-07030/2090718766_zpid/
+Jackson St,HOBOKEN,NJ,07030,3695/Month,1350.0,4.0,2.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Jackson-St-Hoboken-NJ-07030/2090719100_zpid/
+201 Bloomfield St APT 1,Hoboken,NJ,07030,2300/Month,NA,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/201-Bloomfield-St-APT-1-Hoboken-NJ-07030/66465472_zpid/
+212 Madison St APT 2A,HOBOKEN,NJ,07030,2495/Month,NA,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/212-Madison-St-APT-2A-Hoboken-NJ-07030/72246357_zpid/
+1st St,Hoboken,NJ,07030,3500/Month,1100.0,3.0,2.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/1st-St-Hoboken-NJ-07030/2099081684_zpid/
+730 Washington St # 1,Hoboken,NJ,07030,2100/Month,800.0,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/730-Washington-St-1-Hoboken-NJ-07030/2095366681_zpid/
+Adams St,Hoboken,NJ,07030,3100/Month,1000.0,3.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Adams-St-Hoboken-NJ-07030/2094050829_zpid/
+Adams St,Hoboken,NJ,07030,3100/Month,1000.0,3.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Adams-St-Hoboken-NJ-07030/2094050829_zpid/
+Jefferson St,Hoboken,NJ,07030,1800/Month,650.0,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Jefferson-St-Hoboken-NJ-07030/2097603196_zpid/
+Jefferson St,Hoboken,NJ,07030,1800/Month,700.0,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Jefferson-St-Hoboken-NJ-07030/2090765396_zpid/
+131 Madison St APT 2R,Hoboken,NJ,07030,1875/Month,650.0,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/131-Madison-St-APT-2R-Hoboken-NJ-07030/2117816132_zpid/
+1109 Washington St APT 6,Hoboken,NJ,07030,1825/Month,800.0,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/1109-Washington-St-APT-6-Hoboken-NJ-07030/2098201541_zpid/
+218 Clinton St,Hoboken,NJ,07030,2650/Month,900.0,2.0,2.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/218-Clinton-St-Hoboken-NJ-07030/2098659589_zpid/
+1235 Park Ave # THREE,Hoboken,NJ,07030,3150/Month,1100.0,3.0,1.5,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/1235-Park-Ave-THREE-Hoboken-NJ-07030/2090785723_zpid/
+922 Willow Ave # 3,Hoboken,NJ,07030,2000/Month,650.0,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/922-Willow-Ave-3-Hoboken-NJ-07030/2090789520_zpid/
+401 1st St,Hoboken,NJ,07030,3500/Month,1100.0,3.0,2.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/401-1st-St-Hoboken-NJ-07030/2115584983_zpid/
+Park Ave,Hoboken,NJ,07030,3100/Month,1000.0,3.0,1.5,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Park-Ave-Hoboken-NJ-07030/2098769513_zpid/
+Hudson St,Hoboken,NJ,07030,3100/Month,1000.0,3.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Hudson-St-Hoboken-NJ-07030/2103510192_zpid/
+Observer Hwy,Hoboken,NJ,07030,3295/Month,NA,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Observer-Hwy-Hoboken-NJ-07030/2090811703_zpid/
+Observer Hwy,Hoboken,NJ,07030,3550/Month,NA,2.0,2.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Observer-Hwy-Hoboken-NJ-07030/2090811640_zpid/
+Observer Hwy,Hoboken,NJ,07030,5800/Month,NA,4.0,2.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Observer-Hwy-Hoboken-NJ-07030/2090816337_zpid/
+Observer Hwy,Hoboken,NJ,07030,2850/Month,NA,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Observer-Hwy-Hoboken-NJ-07030/2090816595_zpid/
+Observer Hwy,Hoboken,NJ,07030,2695/Month,NA,0.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Observer-Hwy-Hoboken-NJ-07030/2090816676_zpid/
+1237 Park Ave # FIFTH,Hoboken,NJ,07030,3100/Month,1100.0,3.0,1.5,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/1237-Park-Ave-FIFTH-Hoboken-NJ-07030/2095952419_zpid/
+93 Garden St APT 3,HOBOKEN,NJ,07030,2300/Month,662.0,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/93-Garden-St-APT-3-Hoboken-NJ-07030/82170482_zpid/
+91 Garden St APT 3,HOBOKEN,NJ,07030,2350/Month,665.0,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/91-Garden-St-APT-3-Hoboken-NJ-07030/82169022_zpid/
+80 Park Ave APT 3G,Hoboken,NJ,07030,2400/Month,685.0,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/80-Park-Ave-APT-3G-Hoboken-NJ-07030/38882135_zpid/
+120 Park Ave BSMT 4,Hoboken,NJ,07030,7600/Month,2138.0,3.0,3.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/120-Park-Ave-BSMT-4-Hoboken-NJ-07030/2103076705_zpid/
+912 Hudson St # 1,Hoboken,NJ,07030,1800/Month,NA,0.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/912-Hudson-St-1-Hoboken-NJ-07030/2095669418_zpid/
+114 Washington St APT 7,Hoboken,NJ,07030,2650/Month,800.0,2.0,1.0,Condo For Rent,http://www.zillow.com/homes/for_sale//homedetails/114-Washington-St-APT-7-Hoboken-NJ-07030/2120621489_zpid/
+700 1st St APT 8F,HOBOKEN,NJ,07030,3300/Month,1215.0,2.0,2.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/700-1st-St-APT-8F-Hoboken-NJ-07030/68302329_zpid/
+23 47th St # 2,Weehawken,NJ,07086,2500/Month,1500.0,4.0,2.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/23-47th-St-2-Weehawken-NJ-07086/2094573219_zpid/
+4914 Park Ave # 2,Weehawken,NJ,07086,1600/Month,500.0,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/4914-Park-Ave-2-Weehawken-NJ-07086/2091034626_zpid/
+127 Jane St,WEEHAWKEN,NJ,07086,2350/Month,1000.0,2.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/127-Jane-St-Weehawken-NJ-07086/38945167_zpid/
+2604 Palisade Ave # 2,Weehawken,NJ,07086,2200/Month,1200.0,3.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/2604-Palisade-Ave-2-Weehawken-NJ-07086/2097485013_zpid/
+211 Shippen St,WEEHAWKEN,NJ,07086,2450/Month,950.0,2.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/211-Shippen-St-Weehawken-NJ-07086/38945016_zpid/
+Gregory Ave,Weehawken,NJ,07086,1900/Month,800.0,2.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Gregory-Ave-Weehawken-NJ-07086/2089810504_zpid/
+1000 Ave Pi # 615,Weehawken,NJ,07086,7800/Month,NA,2.0,2.5,Condo For Rent,http://www.zillow.com/homes/for_sale//homedetails/1000-Ave-Pi-615-Weehawken-NJ-07086/2089813727_zpid/
+17-19 Bonn Pl # 3,Weehawken,NJ,07086,1700/Month,NA,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/17-19-Bonn-Pl-3-Weehawken-NJ-07086/2089826334_zpid/
+98 Maple St # 2,Weehawken,NJ,07086,1800/Month,700.0,2.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/98-Maple-St-2-Weehawken-NJ-07086/2089832157_zpid/
+98 Maple St # 7UZEDX4AX,Weehawken,NJ,07086,1800/Month,700.0,2.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/98-Maple-St-7UZEDX4AX-Weehawken-NJ-07086/2089832203_zpid/
+34-40 48th St UNIT 1B,Weehawken,NJ,07086,2800/Month,NA,2.0,3.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/34-40-48th-St-UNIT-1B-Weehawken-NJ-07086/2089837960_zpid/
+1000 Ave And Port Imperial # 615,Weehawken,NJ,07086,7800/Month,NA,2.0,2.5,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/1000-Ave-And-Port-Imperial-615-Weehawken-NJ-07086/2098107292_zpid/
+225 Shippen St # 2,Weehawken,NJ,07086,2400/Month,1250.0,3.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/225-Shippen-St-2-Weehawken-NJ-07086/2089852476_zpid/
+722 Boulevard E # 2,Weehawken,NJ,07086,2060/Month,856.0,2.0,2.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/722-Boulevard-E-2-Weehawken-NJ-07086/2124783614_zpid/
+119 Oak St,WEEHAWKEN,NJ,07086,2000/Month,NA,2.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/119-Oak-St-Weehawken-NJ-07086/38944972_zpid/
+8 Liberty Pl # 2,Weehawken,NJ,07086,2000/Month,NA,2.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/8-Liberty-Pl-2-Weehawken-NJ-07086/2089871105_zpid/
+845 Boulevard E # 2,Weehawken,NJ,07086,2000/Month,1000.0,2.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/845-Boulevard-E-2-Weehawken-NJ-07086/2089871784_zpid/
+19 Liberty Pl APT 1,Weehawken,NJ,07086,3500/Month,2200.0,5.0,3.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/19-Liberty-Pl-APT-1-Weehawken-NJ-07086/2111050274_zpid/
+4530 Park Ave APT 11,Weehawken,NJ,07086,1595/Month,NA,2.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/4530-Park-Ave-APT-11-Weehawken-NJ-07086/2090767819_zpid/
+127 Jane St FL 1ST,Weehawken,NJ,07086,2350/Month,1000.0,2.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/127-Jane-St-FL-1ST-Weehawken-NJ-07086/2089885037_zpid/
+Duer Pl,Weehawken,NJ,07086,1850/Month,850.0,2.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Duer-Pl-Weehawken-NJ-07086/2089885539_zpid/
+Maple St,Weehawken,NJ,07086,1850/Month,700.0,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Maple-St-Weehawken-NJ-07086/2089891456_zpid/
+Maple St,Weehawken,NJ,07086,1200/Month,650.0,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Maple-St-Weehawken-NJ-07086/2093854232_zpid/
+Regency Pl,Weehawken,NJ,07086,2604/Month,900.0,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Regency-Pl-Weehawken-NJ-07086/2089954740_zpid/
+Regency Pl,Weehawken,NJ,07086,4849/Month,1500.0,3.0,3.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Regency-Pl-Weehawken-NJ-07086/2089954812_zpid/
+Regency Pl,Weehawken,NJ,07086,3258/Month,1300.0,2.0,2.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Regency-Pl-Weehawken-NJ-07086/2089954880_zpid/
+899 Boulevard E APT 4H,Weehawken,NJ,07086,1400/Month,478.0,0.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/899-Boulevard-E-APT-4H-Weehawken-NJ-07086/2116947953_zpid/
+Maple St,Weehawken,NJ,07086,1125/Month,NA,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Maple-St-Weehawken-NJ-07086/2098103886_zpid/
+10 Ridgely Pl,Weehawken,NJ,07086,1850/Month,700.0,1.0,1.0,House For Rent,http://www.zillow.com/homes/for_sale//homedetails/10-Ridgely-Pl-Weehawken-NJ-07086/2119368763_zpid/
+Regency Pl,Weehawken,NJ,07086,3258/Month,1250.0,2.0,2.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Regency-Pl-Weehawken-NJ-07086/2090004534_zpid/
+Regency Pl,Weehawken,NJ,07086,5145/Month,1510.0,3.0,3.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Regency-Pl-Weehawken-NJ-07086/2090007918_zpid/
+421 Gregory Ave,WEEHAWKEN,NJ,07086,2300/Month,1100.0,3.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/421-Gregory-Ave-Weehawken-NJ-07086/38944781_zpid/
+Avenue And Port Imperial,Weehawken,NJ,07086,3409/Month,1041.0,2.0,2.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Avenue-And-Port-Imperial-Weehawken-NJ-07086/2090017135_zpid/
+4918 Park Ave APT 305,Weehawken,NJ,07086,2700/Month,1247.0,2.0,2.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/4918-Park-Ave-APT-305-Weehawken-NJ-07086/2090020438_zpid/
+97 Clifton Ter APT 4,Weehawken,NJ,07086,1975/Month,700.0,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/97-Clifton-Ter-APT-4-Weehawken-NJ-07086/2096314601_zpid/
+100 Shippen St # 1A,Weehawken,NJ,07086,3500/Month,1773.0,3.0,2.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/100-Shippen-St-1A-Weehawken-NJ-07086/2107818310_zpid/
+Regency Pl,Weehawken,NJ,07086,2615/Month,850.0,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Regency-Pl-Weehawken-NJ-07086/2090095324_zpid/
+Avenue And Port Imperial,Weehawken,NJ,07086,4640/Month,1108.0,2.0,2.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Avenue-And-Port-Imperial-Weehawken-NJ-07086/2090098620_zpid/
+Avenue And Port Imperial,Weehawken,NJ,07086,2500/Month,803.0,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Avenue-And-Port-Imperial-Weehawken-NJ-07086/2090098706_zpid/
+Avenue And Port Imperial,Weehawken,NJ,07086,2005/Month,595.0,0.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Avenue-And-Port-Imperial-Weehawken-NJ-07086/2090098677_zpid/
+Avenue And Port Imperial,Weehawken,NJ,07086,3255/Month,1117.0,2.0,2.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Avenue-And-Port-Imperial-Weehawken-NJ-07086/2090098776_zpid/
+Avenue And Port Imperial,Weehawken,NJ,07086,2685/Month,806.0,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Avenue-And-Port-Imperial-Weehawken-NJ-07086/2090098847_zpid/
+Avenue And Port Imperial,Weehawken,NJ,07086,3310/Month,1117.0,2.0,2.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Avenue-And-Port-Imperial-Weehawken-NJ-07086/2090099174_zpid/
+202 Shippen St APT 2,Weehawken,NJ,07086,2200/Month,NA,2.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/202-Shippen-St-APT-2-Weehawken-NJ-07086/2095775162_zpid/
+8 Cooper Pl APT 1,Weehawken,NJ,07086,1300/Month,600.0,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/8-Cooper-Pl-APT-1-Weehawken-NJ-07086/2102608193_zpid/
+4314 Park Ave,Weehawken,NJ,07086,2450/Month,750.0,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/4314-Park-Ave-Weehawken-NJ-07086/2090257653_zpid/
+228 Maple St FL 1ST,Weehawken,NJ,07086,1900/Month,NA,2.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/228-Maple-St-FL-1ST-Weehawken-NJ-07086/2090177825_zpid/
+Harbor Blvd,Weehawken,NJ,07086,3732/Month,NA,2.0,2.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Harbor-Blvd-Weehawken-NJ-07086/2090193742_zpid/
+Avenue And Port Imperial,Weehawken,NJ,07086,3310/Month,1117.0,2.0,2.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Avenue-And-Port-Imperial-Weehawken-NJ-07086/2090195913_zpid/
+Fulton St,Weehawken,NJ,07086,1650/Month,750.0,0.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Fulton-St-Weehawken-NJ-07086/2097267572_zpid/
+Harbor Blvd,Weehawken,NJ,07086,2650/Month,NA,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Harbor-Blvd-Weehawken-NJ-07086/2090230921_zpid/
+518-536 Gregory Ave APT A208,Weehawken,NJ,07086,4200/Month,NA,3.0,2.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/518-536-Gregory-Ave-APT-A208-Weehawken-NJ-07086/162159233_zpid/
+417 Gregory Ave,WEEHAWKEN,NJ,07086,1300/Month,NA,1.0,1.0,House For Rent,http://www.zillow.com/homes/for_sale//homedetails/417-Gregory-Ave-Weehawken-NJ-07086/38944783_zpid/
+1029 Boulevard E,Weehawken,NJ,07086,1700/Month,NA,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/1029-Boulevard-E-Weehawken-NJ-07086/2097804500_zpid/
+997 Boulevard E,Weehawken,NJ,07086,1190/Month,3529.0,5.0,4.5,House For Rent,http://www.zillow.com/homes/for_sale//homedetails/997-Boulevard-E-Weehawken-NJ-07086/2098809015_zpid/
+Oak St,Weehawken,NJ,07086,2575/Month,1000.0,3.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Oak-St-Weehawken-NJ-07086/2097135276_zpid/
+614 Gregory Ave # B,WEEHAWKEN,NJ,07086,3800/Month,1800.0,3.0,3.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/614-Gregory-Ave-B-Weehawken-NJ-07086/38944901_zpid/
+Avenue And Port Imperial Blvd,Weehawken,NJ,07086,2365/Month,778.0,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Avenue-And-Port-Imperial-Blvd-Weehawken-NJ-07086/2093775171_zpid/
+Harbor Blvd,Weehawken,NJ,07086,3722/Month,815.0,2.0,2.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Harbor-Blvd-Weehawken-NJ-07086/2103516662_zpid/
+Harbor Blvd,Weehawken,NJ,07086,2624/Month,NA,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Harbor-Blvd-Weehawken-NJ-07086/2090343359_zpid/
+Park Ave,Weehawken,NJ,07086,3800/Month,1600.0,2.0,2.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Park-Ave-Weehawken-NJ-07086/2090348729_zpid/
+825 Boulevard E,Weehawken,NJ,07086,6500/Month,3200.0,4.0,2.0,House For Rent,http://www.zillow.com/homes/for_sale//homedetails/825-Boulevard-E-Weehawken-NJ-07086/2100846675_zpid/
+1826 Willow Ave APT 301,Weehawken,NJ,07086,2250/Month,600.0,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/1826-Willow-Ave-APT-301-Weehawken-NJ-07086/2099458740_zpid/
+436 Gregory Ave # 2,Weehawken,NJ,07086,1900/Month,NA,2.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/436-Gregory-Ave-2-Weehawken-NJ-07086/2090369236_zpid/
+Harbor Blvd,Weehawken,NJ,07086,2313/Month,527.0,0.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Harbor-Blvd-Weehawken-NJ-07086/2090383899_zpid/
+Harbor Blvd,Weehawken,NJ,07086,3979/Month,1173.0,2.0,2.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Harbor-Blvd-Weehawken-NJ-07086/2090383906_zpid/
+Harbor Blvd,Weehawken,NJ,07086,2615/Month,786.0,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Harbor-Blvd-Weehawken-NJ-07086/2090383927_zpid/
+Harbor Blvd,Weehawken,NJ,07086,2599/Month,510.0,0.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Harbor-Blvd-Weehawken-NJ-07086/2090383956_zpid/
+Harbor Blvd,Weehawken,NJ,07086,2788/Month,786.0,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Harbor-Blvd-Weehawken-NJ-07086/2090383936_zpid/
+1200 Avenue And Port Imperial # 613,Weehawken,NJ,07086,5500/Month,1226.0,2.0,2.0,Condo For Rent,http://www.zillow.com/homes/for_sale//homedetails/1200-Avenue-And-Port-Imperial-613-Weehawken-NJ-07086/2090389188_zpid/
+28 47th St APT 3,Weehawken,NJ,07086,1300/Month,NA,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/28-47th-St-APT-3-Weehawken-NJ-07086/2090441522_zpid/
+Avenue And Port Imperial,Weehawken,NJ,07086,5015/Month,1365.0,3.0,2.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Avenue-And-Port-Imperial-Weehawken-NJ-07086/2090491896_zpid/
+Avenue And Port Imperial,Weehawken,NJ,07086,3134/Month,1041.0,2.0,2.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Avenue-And-Port-Imperial-Weehawken-NJ-07086/2090492055_zpid/
+Avenue And Port Imperial,Weehawken,NJ,07086,3580/Month,1041.0,2.0,2.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Avenue-And-Port-Imperial-Weehawken-NJ-07086/2090492112_zpid/
+Avenue And Port Imperial,Weehawken,NJ,07086,2215/Month,572.0,0.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Avenue-And-Port-Imperial-Weehawken-NJ-07086/2090492343_zpid/
+Avenue And Port Imperial,Weehawken,NJ,07086,2174/Month,532.0,0.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Avenue-And-Port-Imperial-Weehawken-NJ-07086/2090492409_zpid/
+Avenue And Port Imperial,Weehawken,NJ,07086,2769/Month,791.0,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Avenue-And-Port-Imperial-Weehawken-NJ-07086/2090492547_zpid/
+Avenue And Port Imperial,Weehawken,NJ,07086,2535/Month,791.0,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Avenue-And-Port-Imperial-Weehawken-NJ-07086/2090492660_zpid/
+3416 Park Ave,WEEHAWKEN,NJ,07086,1950/Month,NA,2.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/3416-Park-Ave-Weehawken-NJ-07086/38945963_zpid/
+22 46th St # 2,Weehawken,NJ,07086,2450/Month,1600.0,2.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/22-46th-St-2-Weehawken-NJ-07086/2090615639_zpid/
+29-33 51st St,Weehawken,NJ,07086,1900/Month,NA,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/29-33-51st-St-Weehawken-NJ-07086/239946646_zpid/
+Harbor Blvd,Weehawken,NJ,07086,2580/Month,NA,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Harbor-Blvd-Weehawken-NJ-07086/2090688029_zpid/
+414 Gregory Ave APT 2,Weehawken,NJ,07086,2400/Month,1100.0,2.0,2.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/414-Gregory-Ave-APT-2-Weehawken-NJ-07086/2128670605_zpid/
+80 Fulton St # 2,Weehawken,NJ,07086,3000/Month,1300.0,3.0,2.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/80-Fulton-St-2-Weehawken-NJ-07086/2094362759_zpid/
+Harbor Blvd,Weehawken,NJ,07086,3450/Month,1200.0,2.0,2.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Harbor-Blvd-Weehawken-NJ-07086/2090736394_zpid/
+597 Gregory Ave # 2,Weehawken,NJ,07086,1875/Month,750.0,3.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/597-Gregory-Ave-2-Weehawken-NJ-07086/2116888116_zpid/
+1300 Willow Ave # 618,Weehawken,NJ,07086,3430/Month,805.0,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/1300-Willow-Ave-618-Weehawken-NJ-07086/2090861377_zpid/
+34 47th St # 1,Weehawken,NJ,07086,2000/Month,NA,2.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/34-47th-St-1-Weehawken-NJ-07086/2090878257_zpid/
+47 Hudson Pl,WEEHAWKEN,NJ,07086,2950/Month,1400.0,3.0,1.0,House For Rent,http://www.zillow.com/homes/for_sale//homedetails/47-Hudson-Pl-Weehawken-NJ-07086/38946328_zpid/
+4 Lincoln Pl,WEEHAWKEN,NJ,07086,1450/Month,NA,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/4-Lincoln-Pl-Weehawken-NJ-07086/38944837_zpid/
+214 Dodd St # 2,Weehawken,NJ,07086,2100/Month,1100.0,2.0,2.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/214-Dodd-St-2-Weehawken-NJ-07086/2091849720_zpid/
+941 Boulevard E,Weehawken,NJ,07086,2600/Month,1200.0,2.0,2.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/941-Boulevard-E-Weehawken-NJ-07086/2104804372_zpid/
+546-548 Gregory Ave # 1,Weehawken,NJ,07086,4100/Month,1400.0,3.0,2.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/546-548-Gregory-Ave-1-Weehawken-NJ-07086/2091271018_zpid/
+444 Gregory Ave # 1,Weehawken,NJ,07086,2100/Month,900.0,2.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/444-Gregory-Ave-1-Weehawken-NJ-07086/2105243754_zpid/
+Harbor Blvd,Weehawken,NJ,07086,2180/Month,515.0,0.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Harbor-Blvd-Weehawken-NJ-07086/2091298699_zpid/
+150 Edgar St # 2,Weehawken,NJ,07086,2300/Month,1000.0,3.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/150-Edgar-St-2-Weehawken-NJ-07086/2101256800_zpid/
+16 Regency Pl,WEEHAWKEN,NJ,07086,1000/Month,4000.0,3.0,4.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/16-Regency-Pl-Weehawken-NJ-07086/66465698_zpid/
+Avenue And Port Imperial,Weehawken,NJ,07086,4760/Month,1365.0,3.0,3.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Avenue-And-Port-Imperial-Weehawken-NJ-07086/2095565015_zpid/
+Avenue And Port Imperial,Weehawken,NJ,07086,2220/Month,678.0,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Avenue-And-Port-Imperial-Weehawken-NJ-07086/2095563544_zpid/
+Avenue And Port Imperial,Weehawken,NJ,07086,2290/Month,NA,0.0,1.0,House For Rent,http://www.zillow.com/homes/for_sale//homedetails/Avenue-And-Port-Imperial-Weehawken-NJ-07086/2093648550_zpid/
+439 Gregory Ave # 2,Weehawken,NJ,07086,1875/Month,NA,2.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/439-Gregory-Ave-2-Weehawken-NJ-07086/2091521816_zpid/
+35-39 51st St #A4,weehawken,NJ,07086,1450/Month,500.0,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/35-39-51st-St-A4-Weehawken-NJ-07086/2098407715_zpid/
+106 Highpoint Ave # 2,Weehawken,NJ,07086,1795/Month,NA,2.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/106-Highpoint-Ave-2-Weehawken-NJ-07086/2098933950_zpid/
+Harbor Blvd,Weehawken,NJ,07086,2395/Month,810.0,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Harbor-Blvd-Weehawken-NJ-07086/2091795333_zpid/
+600 Harbor Blvd UNIT 841,WEEHAWKEN,NJ,07086,3600/Month,1451.0,2.0,2.5,Condo For Rent,http://www.zillow.com/homes/for_sale//homedetails/600-Harbor-Blvd-UNIT-841-Weehawken-NJ-07086/38945856_zpid/
+Harbor Blvd,Weehawken,NJ,07086,2770/Month,NA,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Harbor-Blvd-Weehawken-NJ-07086/2093638270_zpid/
+Harbor Blvd,Weehawken,NJ,07086,2485/Month,NA,0.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Harbor-Blvd-Weehawken-NJ-07086/2093638260_zpid/
+Harbor Blvd,Weehawken,NJ,07086,3120/Month,NA,2.0,2.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Harbor-Blvd-Weehawken-NJ-07086/2093638272_zpid/
+Harbor Blvd,Weehawken,NJ,07086,4125/Month,NA,3.0,2.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Harbor-Blvd-Weehawken-NJ-07086/2093638268_zpid/
+Pershing Rd,Weehawken,NJ,07086,2280/Month,NA,0.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Pershing-Rd-Weehawken-NJ-07086/2093645081_zpid/
+202 Dodd St # 2,Weehawken,NJ,07086,2100/Month,NA,2.0,2.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/202-Dodd-St-2-Weehawken-NJ-07086/2091963046_zpid/
+Avenue And Port Imperial,Weehawken,NJ,07086,3175/Month,1117.0,2.0,2.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Avenue-And-Port-Imperial-Weehawken-NJ-07086/2092099270_zpid/
+Avenue And Port Imperial Blvd,Weehawken,NJ,07086,3450/Month,1200.0,2.0,2.0,House For Rent,http://www.zillow.com/homes/for_sale//homedetails/Avenue-And-Port-Imperial-Blvd-Weehawken-NJ-07086/2092182898_zpid/
+8 Pershing Rd # 406,Weehawken,NJ,07086,2600/Month,NA,0.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/8-Pershing-Rd-406-Weehawken-NJ-07086/2092994203_zpid/
+157 Edgar St # 2,Weehawken,NJ,07086,2400/Month,1500.0,3.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/157-Edgar-St-2-Weehawken-NJ-07086/2092806317_zpid/
+110 Hauxhurst Ave # 2,Weehawken,NJ,07086,2000/Month,900.0,2.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/110-Hauxhurst-Ave-2-Weehawken-NJ-07086/2111861375_zpid/
+Harbor Blvd,Weehawken,NJ,07086,2400/Month,870.0,1.0,1.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Harbor-Blvd-Weehawken-NJ-07086/2094049216_zpid/
+Harbor Blvd,Weehawken,NJ,07086,3469/Month,1200.0,2.0,2.0,House For Rent,http://www.zillow.com/homes/for_sale//homedetails/Harbor-Blvd-Weehawken-NJ-07086/2096483779_zpid/
+Pershing Rd,Weehawken,NJ,07086,2463/Month,800.0,1.0,1.0,House For Rent,http://www.zillow.com/homes/for_sale//homedetails/Pershing-Rd-Weehawken-NJ-07086/2096483782_zpid/
+Regency Pl,Weehawken,NJ,07086,3450/Month,1193.0,2.0,2.0,House For Rent,http://www.zillow.com/homes/for_sale//homedetails/Regency-Pl-Weehawken-NJ-07086/2096483780_zpid/
+Harbor Blvd,Weehawken,NJ,07086,3425/Month,1200.0,2.0,2.0,House For Rent,http://www.zillow.com/homes/for_sale//homedetails/Harbor-Blvd-Weehawken-NJ-07086/2094759906_zpid/
+Avenue And Port Imperial,Weehawken,NJ,07086,3359/Month,1041.0,2.0,2.0,Apartment For Rent,http://www.zillow.com/homes/for_sale//homedetails/Avenue-And-Port-Imperial-Weehawken-NJ-07086/2095024400_zpid/

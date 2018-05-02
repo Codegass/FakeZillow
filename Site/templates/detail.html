@@ -1,0 +1,63 @@
+{% extends 'base.html' %}
+
+{% block title %}Details-{% endblock %}
+
+{% block head %}
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/detail.css') }}">
+
+{% endblock %}
+
+{% block main %}
+    <h3 class="page-title">{{ question.address }} {{ question.city }} {{ question.state }}</h3>
+    <p class="question-info">
+        <sqan>Author： {{ question.author.username }}</sqan>
+        <span>Time： {{ question.create_time }}</span>
+    </p>
+    <div class="thumbnail">
+        <img src="https://maps.googleapis.com/maps/api/streetview?size=600x300&location={{ question.address }},{{ question.city }},{{ question.state }}&key=AIzaSyD7XXisgcTUrErT_BK_QSnmJ73h42H5uIQ">
+    <div class="caption-full">
+        <div class="panel panel-warning">
+        <!-- Default panel contents -->
+        <div class="panel-heading">Info</div>
+{#        <div class="panel-body">#}
+{#            <p>...</p>#}
+{#        </div>#}
+
+        <!-- List group -->
+        <ul class="list-group">
+            <li class="list-group-item">Price: {{ question.price }}</li>
+            <li class="list-group-item">Bathroom/Bedroom: {{ question.bath }}/{{ question.bed }}</li>
+            <li class="list-group-item">Address: {{ question.address }}, {{ question.city }}, {{ question.state }}</li>
+            <li class="list-group-item list-group-item-success">Contact: {{ question.contact }}</li>
+        </ul>
+        </div>
+    </div>
+        <p class="question-content">{{ question.content }}</p>
+        <img class="img-responsive" src="https://maps.googleapis.com/maps/api/staticmap?format=gif&zoom=17&size=600x300&maptype=roadmap
+&markers=color:blue%7C{{ question.address }},{{ question.city }},{{ question.state }}&key=AIzaSyC25dlln2FG19g80yoK-7jznTVRU4Zmrnc">
+    </div>
+
+    <h4>Comments:</h4>
+    <form action="{{ url_for('add_answer') }}" method="post">
+        <div class="form-group">
+            <textarea name="answer_content" rows="5" class="form-control" placeholder="Write a Response"></textarea>
+            <input type="hidden" name="question_id" value="{{ question.id }}">
+        </div>
+        <div class="form-group" style="text-align: right;">
+            <button class="btn btn-primary">Publish</button>
+        </div>
+    </form>
+    <ul class="answer-list">
+        {% for answer in question.answers %}
+            <li>
+                <div class="user-info">
+                    <img src="{{ url_for('static', filename='images/logo1.jpg') }}" alt=""
+                            class="avatar">
+                    <span class="username">{{ answer.author.username }}</span>
+                    <span class="create-time">{{ answer.create_time }}</span>
+                </div>
+                <p class="answer-content">{{ answer.content }}</p>
+            </li>
+        {% endfor %}
+    </ul>
+{% endblock %}
