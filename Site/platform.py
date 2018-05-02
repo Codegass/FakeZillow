@@ -1,4 +1,4 @@
-#encoding: utf-8
+# encoding: utf-8
 
 from flask import Flask, render_template, request, redirect, url_for, session
 import config
@@ -13,26 +13,31 @@ app.config.from_object(config)
 db.init_app(app)
 
 
-
 @app.route('/')
 def index():
-    with open('static/data/2018-05-01_clean.csv','rt') as fin:
+    with open('static/data/2018-05-01_clean.csv', 'rt') as fin:
         cin = csv.reader(fin)
         data = [row for row in cin]
     explorelist = list()
     length = len(data)
-    for row in range(0,6):
-        r = random.randint(1, length-1)
+    for row in range(0, 6):
+        r = random.randint(1, length - 1)
         explorelist.append(data[r])
+
+    image = ["User_1.jpg", "User_2.jpg", "User_3.jpg", "User_4.jpg", "User_5.jpg"]
+    # img = image[random.randint(0, 4)]
 
     context = {
         'questions': Question.query.order_by('-create_time').all()
     }
-    return render_template('index.html', ads=explorelist, **context)
+
+    return render_template('index.html', ads=explorelist, img=image, **context)
+
 
 @app.errorhandler(404)
 def page_not_found(e):
     return render_template('404.html'), 404
+
 
 @app.route('/login/', methods=['GET', 'POST'])
 def login():
@@ -50,6 +55,7 @@ def login():
             return redirect(url_for('index'))
         else:
             return u'Phone Number or Password Wrong, Please Check'
+
 
 @app.route('/regist/', methods=['GET', 'POST'])
 def regist():
@@ -76,6 +82,7 @@ def regist():
                 # 如果注册成功，就让页面跳转到登录的页面
                 return redirect(url_for('login'))
 
+
 # 判断用户是否登录，只要我们从session中拿到数据就好了   注销函数
 @app.route('/logout/')
 def logout():
@@ -83,6 +90,7 @@ def logout():
     # del session('user_id')
     session.clear()
     return redirect(url_for('login'))
+
 
 @app.route('/question/', methods=['GET', 'POST'])
 @login_required
@@ -99,7 +107,8 @@ def question():
         bath = request.form.get('bath')
         bed = request.form.get('bed')
         content = request.form.get('content')
-        question = Question(contact=contact, address=address, city=city, state=state, zipcode=zipcode, price=price, bath=bath, bed=bed, content=content)
+        question = Question(contact=contact, address=address, city=city, state=state, zipcode=zipcode, price=price,
+                            bath=bath, bed=bed, content=content)
         user_id = session.get('user_id')
         user = User.query.filter(User.id == user_id).first()
         question.author = user
@@ -107,10 +116,12 @@ def question():
         db.session.commit()
         return redirect(url_for('index'))
 
+
 @app.route('/detail/<question_id>/')
 def detail(question_id):
     question_model = Question.query.filter(Question.id == question_id).first()
     return render_template('detail.html', question=question_model)
+
 
 @app.route('/add_answer/', methods=['POST'])
 @login_required
@@ -127,6 +138,7 @@ def add_answer():
     db.session.commit()
     return redirect(url_for('detail', question_id=question_id))
 
+
 @app.route('/search/')
 def search():
     q = request.args.get('q')
@@ -138,17 +150,19 @@ def search():
     questions = Question.query.filter(Question.address.contains(q))
     return render_template('index.html', questions=questions)
 
+
 @app.route('/explore/')
 def explore():
-    with open('static/data/2018-05-01_clean.csv','rt') as fin:
+    with open('static/data/2018-05-01_clean.csv', 'rt') as fin:
         cin = csv.reader(fin)
         data = [row for row in cin]
     explorelist = list()
     length = len(data)
-    for row in range(0,3):
-        r = random.randint(1, length-1)
+    for row in range(0, 3):
+        r = random.randint(1, length - 1)
         explorelist.append(data[r])
     return render_template('explore.html', explore=explorelist)
+
 
 # @app.route('/nearbydetails/<full-address>')
 # def nearbydetails(full-address):
@@ -165,6 +179,6 @@ def my_context_processor():
             return {'user': user}
     return {}
 
+
 if __name__ == '__main__':
     app.run(debug=True)
-
