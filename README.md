@@ -35,3 +35,6 @@ $ python manage.py runserver
 Click the http://127.0.0.1:5000 and you can see it on you computer.
 
  
+## Screen Cuts
+
+![](https://github.com/Codegass/Rentee/blob/master/shootcut/sc1.jpg)
