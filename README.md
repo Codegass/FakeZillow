@@ -17,7 +17,7 @@ This web frame is developed with Flask, you should install the flask package fir
 pip install -r Site/requirements.txt
 ```
 
-Be careful that you should `cd` to the project folder before you use this command.
+Be careful that you should `cd` to the `Site` folder before you use this command.
 
 After the packages are installed, you should firstly init the database. I use the sqlite to build the database, you can switch to what you like.
 
