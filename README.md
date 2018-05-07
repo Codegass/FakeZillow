@@ -14,7 +14,7 @@ This Website is still on developing.
 This web frame is developed with Flask, you should install the flask package first. Use the command line below to install all the package this project need.
 
 ```
-pip install -r Site/requirements.txt
+pip install -r requirements.txt
 ```
 
 Be careful that you should `cd` to the `Site` folder before you use this command.
