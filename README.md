@@ -6,6 +6,9 @@ Rentee is a open source rent mate recommendation website. You can fork the repo 
 
 This Website is still on developing.
 
+> This Project is for EE 551 final.
+> Build by Chenhao Wei and Xiaoran MA.
+
 ## Setup
 
 This web frame is developed with Flask, you should install the flask package first. Use the command line below to install all the package this project need.
