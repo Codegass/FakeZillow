@@ -29,6 +29,8 @@ $ python manage.py db migrate
 $ python manage.py db upgrade
 ```
 
+Inorder to use the google map api, you should fill the `key` in `detail.html` and `explore.html` with your own google api token.
+
 Now you can run the website on your computer
 
 ```
