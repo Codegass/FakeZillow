@@ -14,3 +14,4 @@ def login_required(func):
             return redirect(url_for('login'))
 
     return qingwa
+# redirect
